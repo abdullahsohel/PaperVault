@@ -1,0 +1,223 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-03",
+  "categories": [
+    {
+      "id": "school",
+      "name": "School",
+      "description": "Standards 1-10",
+      "icon": "school",
+      "folders": [
+        {
+          "id": "std10",
+          "name": "Std-10",
+          "folders": [],
+          "files": [
+            {
+              "id": "std10_math_2024",
+              "name": "Mathematics 2024",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/math_2024.pdf",
+              "size": "2.5 MB"
+            },
+            {
+              "id": "std10_science_2024",
+              "name": "Science 2024",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/science_2024.pdf",
+              "size": "3.1 MB"
+            }
+          ]
+        },
+        {
+          "id": "std9",
+          "name": "Std-9",
+          "folders": [],
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "junior_college",
+      "name": "Junior College",
+      "description": "11th & 12th Science/Commerce/Arts",
+      "icon": "auto_stories",
+      "folders": [
+        {
+          "id": "science",
+          "name": "Science",
+          "folders": [
+            {
+              "id": "std11_sci",
+              "name": "Std-11",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "std12_sci",
+              "name": "Std-12",
+              "folders": [],
+              "files": []
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "commerce",
+          "name": "Commerce",
+          "folders": [
+            {
+              "id": "std11_com",
+              "name": "Std-11",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "std12_com",
+              "name": "Std-12",
+              "folders": [],
+              "files": []
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "arts",
+          "name": "Arts",
+          "folders": [],
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "diploma",
+      "name": "Diploma",
+      "description": "Engineering Branches",
+      "icon": "engineering",
+      "folders": [
+        {
+          "id": "computer_eng",
+          "name": "Computer Engineering",
+          "folders": [
+            {
+              "id": "co_sem1",
+              "name": "Sem-1",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "co_sem2",
+              "name": "Sem-2",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "co_sem3",
+              "name": "Sem-3",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "co_sem4",
+              "name": "Sem-4",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "co_sem5",
+              "name": "Sem-5",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "co_sem6",
+              "name": "Sem-6",
+              "folders": [],
+              "files": []
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "mechanical_eng",
+          "name": "Mechanical Engineering",
+          "folders": [
+            {
+              "id": "me_sem1",
+              "name": "Sem-1",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "me_sem2",
+              "name": "Sem-2",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "me_sem3",
+              "name": "Sem-3",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "me_sem4",
+              "name": "Sem-4",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "me_sem5",
+              "name": "Sem-5",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "me_sem6",
+              "name": "Sem-6",
+              "folders": [],
+              "files": []
+            }
+          ],
+          "files": []
+        },
+        {
+          "id": "civil_eng",
+          "name": "Civil Engineering",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "electrical_eng",
+          "name": "Electrical Engineering",
+          "folders": [],
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "degree",
+      "name": "Degree",
+      "description": "Bachelor Programs",
+      "icon": "workspace_premium",
+      "folders": [
+        {
+          "id": "btech_cs",
+          "name": "B.Tech Computer Science",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "bcom",
+          "name": "B.Com",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "bba",
+          "name": "BBA",
+          "folders": [],
+          "files": []
+        }
+      ]
+    }
+  ]
+}
