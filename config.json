@@ -363,6 +363,29 @@
           "files": []
         }
       ]
+    },
+
+    {
+      "id": "diploma",
+      "name": "Diploma",
+      "description": "Engineering Branches",
+      "icon": "engineering",
+      "folders": [
+        {
+          "id": "computer",
+          "name": "Computer",
+          "folders": [
+            { "id": "c1", "name": "Sem-1", "folders": [], "files": [] },
+            { "id": "c2", "name": "Sem-2", "folders": [], "files": [] },
+            { "id": "c3", "name": "Sem-3", "folders": [], "files": [] },
+            { "id": "c4", "name": "Sem-4", "folders": [], "files": [] },
+            { "id": "c5", "name": "Sem-5", "folders": [], "files": [] },
+            { "id": "c6", "name": "Sem-6", "folders": [], "files": [] }
+          ],
+          "files": []
+        }
+      ]
     }
+    
   ]
 }
