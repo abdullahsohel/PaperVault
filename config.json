@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-04-03",
   "categories": [
     {
@@ -8,6 +8,15 @@
       "description": "Standards 1-10",
       "icon": "school",
       "folders": [
+        { "id": "std1", "name": "Std-1", "folders": [], "files": [] },
+        { "id": "std2", "name": "Std-2", "folders": [], "files": [] },
+        { "id": "std3", "name": "Std-3", "folders": [], "files": [] },
+        { "id": "std4", "name": "Std-4", "folders": [], "files": [] },
+        { "id": "std5", "name": "Std-5", "folders": [], "files": [] },
+        { "id": "std6", "name": "Std-6", "folders": [], "files": [] },
+        { "id": "std7", "name": "Std-7", "folders": [], "files": [] },
+        { "id": "std8", "name": "Std-8", "folders": [], "files": [] },
+        { "id": "std9", "name": "Std-9", "folders": [], "files": [] },
         {
           "id": "std10",
           "name": "Std-10",
@@ -26,37 +35,21 @@
               "size": "3.1 MB"
             }
           ]
-        },
-        {
-          "id": "std9",
-          "name": "Std-9",
-          "folders": [],
-          "files": []
         }
       ]
     },
     {
       "id": "junior_college",
       "name": "Junior College",
-      "description": "11th & 12th Science/Commerce/Arts",
+      "description": "11th & 12th",
       "icon": "auto_stories",
       "folders": [
         {
           "id": "science",
           "name": "Science",
           "folders": [
-            {
-              "id": "std11_sci",
-              "name": "Std-11",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "std12_sci",
-              "name": "Std-12",
-              "folders": [],
-              "files": []
-            }
+            { "id": "sci11", "name": "Std-11", "folders": [], "files": [] },
+            { "id": "sci12", "name": "Std-12", "folders": [], "files": [] }
           ],
           "files": []
         },
@@ -64,25 +57,18 @@
           "id": "commerce",
           "name": "Commerce",
           "folders": [
-            {
-              "id": "std11_com",
-              "name": "Std-11",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "std12_com",
-              "name": "Std-12",
-              "folders": [],
-              "files": []
-            }
+            { "id": "com11", "name": "Std-11", "folders": [], "files": [] },
+            { "id": "com12", "name": "Std-12", "folders": [], "files": [] }
           ],
           "files": []
         },
         {
           "id": "arts",
           "name": "Arts",
-          "folders": [],
+          "folders": [
+            { "id": "arts11", "name": "Std-11", "folders": [], "files": [] },
+            { "id": "arts12", "name": "Std-12", "folders": [], "files": [] }
+          ],
           "files": []
         }
       ]
@@ -94,100 +80,57 @@
       "icon": "engineering",
       "folders": [
         {
-          "id": "computer_eng",
-          "name": "Computer Engineering",
+          "id": "computer",
+          "name": "Computer",
           "folders": [
-            {
-              "id": "co_sem1",
-              "name": "Sem-1",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "co_sem2",
-              "name": "Sem-2",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "co_sem3",
-              "name": "Sem-3",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "co_sem4",
-              "name": "Sem-4",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "co_sem5",
-              "name": "Sem-5",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "co_sem6",
-              "name": "Sem-6",
-              "folders": [],
-              "files": []
-            }
+            { "id": "c1", "name": "Sem-1", "folders": [], "files": [] },
+            { "id": "c2", "name": "Sem-2", "folders": [], "files": [] },
+            { "id": "c3", "name": "Sem-3", "folders": [], "files": [] },
+            { "id": "c4", "name": "Sem-4", "folders": [], "files": [] },
+            { "id": "c5", "name": "Sem-5", "folders": [], "files": [] },
+            { "id": "c6", "name": "Sem-6", "folders": [], "files": [] }
           ],
           "files": []
         },
         {
-          "id": "mechanical_eng",
-          "name": "Mechanical Engineering",
-          "folders": [
-            {
-              "id": "me_sem1",
-              "name": "Sem-1",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "me_sem2",
-              "name": "Sem-2",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "me_sem3",
-              "name": "Sem-3",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "me_sem4",
-              "name": "Sem-4",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "me_sem5",
-              "name": "Sem-5",
-              "folders": [],
-              "files": []
-            },
-            {
-              "id": "me_sem6",
-              "name": "Sem-6",
-              "folders": [],
-              "files": []
-            }
-          ],
-          "files": []
-        },
-        {
-          "id": "civil_eng",
-          "name": "Civil Engineering",
+          "id": "mechanical",
+          "name": "Mechanical",
           "folders": [],
           "files": []
         },
         {
-          "id": "electrical_eng",
-          "name": "Electrical Engineering",
+          "id": "civil",
+          "name": "Civil",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "electrical",
+          "name": "Electrical",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "it",
+          "name": "IT",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "extc",
+          "name": "Electronics & Telecommunication",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "automobile",
+          "name": "Automobile",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "chemical",
+          "name": "Chemical",
           "folders": [],
           "files": []
         }
@@ -200,21 +143,18 @@
       "icon": "workspace_premium",
       "folders": [
         {
-          "id": "btech_cs",
-          "name": "B.Tech Computer Science",
-          "folders": [],
-          "files": []
-        },
-        {
-          "id": "bcom",
-          "name": "B.Com",
-          "folders": [],
-          "files": []
-        },
-        {
-          "id": "bba",
-          "name": "BBA",
-          "folders": [],
+          "id": "computer_deg",
+          "name": "Computer",
+          "folders": [
+            { "id": "dc1", "name": "Sem-1", "folders": [], "files": [] },
+            { "id": "dc2", "name": "Sem-2", "folders": [], "files": [] },
+            { "id": "dc3", "name": "Sem-3", "folders": [], "files": [] },
+            { "id": "dc4", "name": "Sem-4", "folders": [], "files": [] },
+            { "id": "dc5", "name": "Sem-5", "folders": [], "files": [] },
+            { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
+            { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
+            { "id": "dc8", "name": "Sem-8", "folders": [], "files": [] }
+          ],
           "files": []
         }
       ]
