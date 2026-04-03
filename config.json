@@ -366,8 +366,8 @@
     },
 
     {
-      "id": "diploma",
-      "name": "Diploma",
+      "id": "diploma1",
+      "name": "Diploma1",
       "description": "Engineering Branches",
       "icon": "engineering",
       "folders": [
