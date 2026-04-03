@@ -322,7 +322,7 @@
     {
       "id": "diploma",
       "name": "Diploma",
-      "description": "Engineering Branches",
+      "description": "Engineering",
       "icon": "engineering",
       "folders": [
         {
