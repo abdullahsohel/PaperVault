@@ -22,132 +22,115 @@
           "name": "Std-10",
           "folders": [
             {
-  "id": "std10",
-  "name": "Std-10",
-  "folders": [
-    {
-      "id": "maths1",
-      "name": "Mathematics 1",
-      "folders": [],
-      "files": [
-        {
-          "id": "maths1_2024",
-          "name": "Maths 1 - 2024",
-          "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths1_2024.pdf",
-          "size": "2.4 MB"
-        }
-      ]
-    },
-    {
-      "id": "maths2",
-      "name": "Mathematics 2",
-      "folders": [],
-      "files": [
-        {
-          "id": "maths2_2024",
-          "name": "Maths 2 - 2024",
-          "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths2_2024.pdf",
-          "size": "2.6 MB"
-        }
-      ]
-    },
-    {
-      "id": "science1",
-      "name": "Science 1",
-      "folders": [],
-      "files": [
-        {
-          "id": "science1_2024",
-          "name": "Science 1 - 2024",
-          "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science1_2024.pdf",
-          "size": "3.0 MB"
-        }
-      ]
-    },
-    {
-      "id": "science2",
-      "name": "Science 2",
-      "folders": [],
-      "files": [
-        {
-          "id": "science2_2024",
-          "name": "Science 2 - 2024",
-          "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science2_2024.pdf",
-          "size": "3.2 MB"
-        }
-      ]
-    },
-    {
-      "id": "english",
-      "name": "English",
-      "folders": [],
-      "files": [
-        {
-          "id": "english_2024",
-          "name": "English - 2024",
-          "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/English_2024.pdf",
-          "size": "1.8 MB"
-        }
-      ]
-    },
-    {
-      "id": "history_geography",
-      "name": "History & Geography",
-      "folders": [],
-      "files": [
-        {
-          "id": "hist_geo_2024",
-          "name": "History & Geography - 2024",
-          "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/History_Geography_2024.pdf",
-          "size": "2.2 MB"
-        }
-      ]
-    },
-    {
-      "id": "hindi",
-      "name": "Hindi",
-      "folders": [],
-      "files": [
-        {
-          "id": "hindi_2024",
-          "name": "Hindi - 2024",
-          "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Hindi_2024.pdf",
-          "size": "1.9 MB"
-        }
-      ]
-    },
-    {
-      "id": "marathi",
-      "name": "Marathi",
-      "folders": [],
-      "files": [
-        {
-          "id": "marathi_2024",
-          "name": "Marathi - 2024",
-          "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Marathi_2024.pdf",
-          "size": "2.0 MB"
-        }
-      ]
-    }
-  ],
-          ],
-          "files": [
-            {
-              "id": "std10_math_2024",
-              "name": "Mathematics 2024",
-              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Gravitation STD 10th.pdf",
-              "size": "2.5 MB"
+              "id": "maths1",
+              "name": "Mathematics 1",
+              "folders": [],
+              "files": [
+                {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths1_2024.pdf",
+                  "size": "2.4 MB"
+                }
+              ]
             },
             {
-              "id": "std10_science_2024",
-              "name": "Science 2024",
-              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/science_2024.pdf",
-              "size": "3.1 MB"
+              "id": "maths2",
+              "name": "Mathematics 2",
+              "folders": [],
+              "files": [
+                {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths2_2024.pdf",
+                  "size": "2.6 MB"
+                }
+              ]
+            },
+            {
+              "id": "science1",
+              "name": "Science 1",
+              "folders": [],
+              "files": [
+                {
+                  "id": "science1_2024",
+                  "name": "Science 1 - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science1_2024.pdf",
+                  "size": "3.0 MB"
+                }
+              ]
+            },
+            {
+              "id": "science2",
+              "name": "Science 2",
+              "folders": [],
+              "files": [
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science2_2024.pdf",
+                  "size": "3.2 MB"
+                }
+              ]
+            },
+            {
+              "id": "english",
+              "name": "English",
+              "folders": [],
+              "files": [
+                {
+                  "id": "english_2024",
+                  "name": "English - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/English_2024.pdf",
+                  "size": "1.8 MB"
+                }
+              ]
+            },
+            {
+              "id": "history_geography",
+              "name": "History & Geography",
+              "folders": [],
+              "files": [
+                {
+                  "id": "hist_geo_2024",
+                  "name": "History & Geography - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/History_Geography_2024.pdf",
+                  "size": "2.2 MB"
+                }
+              ]
+            },
+            {
+              "id": "hindi",
+              "name": "Hindi",
+              "folders": [],
+              "files": [
+                {
+                  "id": "hindi_2024",
+                  "name": "Hindi - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Hindi_2024.pdf",
+                  "size": "1.9 MB"
+                }
+              ]
+            },
+            {
+              "id": "marathi",
+              "name": "Marathi",
+              "folders": [],
+              "files": [
+                {
+                  "id": "marathi_2024",
+                  "name": "Marathi - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Marathi_2024.pdf",
+                  "size": "2.0 MB"
+                }
+              ]
             }
-          ]
+          ],
+          "files": []
         }
       ]
     },
+
     {
       "id": "junior_college",
       "name": "Junior College",
@@ -183,6 +166,7 @@
         }
       ]
     },
+
     {
       "id": "diploma",
       "name": "Diploma",
@@ -201,51 +185,10 @@
             { "id": "c6", "name": "Sem-6", "folders": [], "files": [] }
           ],
           "files": []
-        },
-        {
-          "id": "mechanical",
-          "name": "Mechanical",
-          "folders": [],
-          "files": []
-        },
-        {
-          "id": "civil",
-          "name": "Civil",
-          "folders": [],
-          "files": []
-        },
-        {
-          "id": "electrical",
-          "name": "Electrical",
-          "folders": [],
-          "files": []
-        },
-        {
-          "id": "it",
-          "name": "IT",
-          "folders": [],
-          "files": []
-        },
-        {
-          "id": "extc",
-          "name": "Electronics & Telecommunication",
-          "folders": [],
-          "files": []
-        },
-        {
-          "id": "automobile",
-          "name": "Automobile",
-          "folders": [],
-          "files": []
-        },
-        {
-          "id": "chemical",
-          "name": "Chemical",
-          "folders": [],
-          "files": []
         }
       ]
     },
+
     {
       "id": "degree",
       "name": "Degree",
