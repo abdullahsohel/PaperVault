@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-04",
+  "categories": [
+    {
+      "id": "school_resources",
+      "name": "School",
+      "description": "Textbooks and digests",
+      "icon": "school",
+      "folders": [
+        {
+          "id": "std10_resources",
+          "name": "Std-10",
+          "folders": [
+            {
+              "id": "std10_textbooks",
+              "name": "Textbooks",
+              "folders": [],
+              "files": [
+                {
+                  "id": "std10_maths_textbook",
+                  "name": "Mathematics Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/School/Std-10/Textbooks/mathematics_textbook.pdf",
+                  "size": "14.0 MB"
+                }
+              ]
+            },
+            {
+              "id": "std10_digests",
+              "name": "Digests",
+              "folders": [],
+              "files": [
+                {
+                  "id": "std10_science_digest",
+                  "name": "Science Digest",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/School/Std-10/Digests/science_digest.pdf",
+                  "size": "8.5 MB"
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ]
+    },
+    {
+      "id": "junior_college_resources",
+      "name": "Junior College",
+      "description": "11th and 12th resources",
+      "icon": "auto_stories",
+      "folders": [
+        {
+          "id": "science_resources",
+          "name": "Science",
+          "folders": [
+            {
+              "id": "std11_science_textbooks",
+              "name": "Std-11 Textbooks",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "std12_science_digests",
+              "name": "Std-12 Digests",
+              "folders": [],
+              "files": []
+            }
+          ],
+          "files": []
+        }
+      ]
+    }
+  ]
+}
