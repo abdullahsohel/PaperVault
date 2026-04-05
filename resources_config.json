@@ -9,6 +9,87 @@
       "icon": "school",
       "folders": [
         {
+          "id": "std9_resources",
+          "name": "Std-9",
+          "folders": [
+            {
+              "id": "std9_textbooks",
+              "name": "Textbooks",
+              "folders": [],
+              "files": [
+                {
+                  "id": "std9_english_textbook",
+                  "name": "Eng Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-English-Textbook.pdf",
+                  "size": "14.0 MB"
+                },
+                {
+                  "id": "std9_geography_textbook",
+                  "name": "Geog Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-Geography-Textbook.pdf",
+                  "size": "14.0 MB"
+                },
+                {
+                  "id": "std9_hindi(Higher)_textbook",
+                  "name": "Hindi(Higher) Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-Hindi(Higher)-Textbook.pdf",
+                  "size": "14.0 MB"
+                },
+                {
+                  "id": "std9_hindi(Lower)_textbook",
+                  "name": "Hindi(Lower) Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-Hindi(Lower)-Textbook.pdf",
+                  "size": "14.0 MB"
+                },
+                {
+                  "id": "std9_marathi(Higher)_textbook",
+                  "name": "Marathi(Higher) Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-Marathi(Higher)-Textbook.pdf",
+                  "size": "14.0 MB"
+                },
+                {
+                  "id": "std9_Marathi(Lower)_textbook",
+                  "name": "Marathi(Lower) Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-Marathi(Lower)-Textbook.pdf",
+                  "size": "14.0 MB"
+                },
+                {
+                  "id": "std9_maths1_textbook",
+                  "name": "Maths 1 Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-Maths 1-Textbook.pdf",
+                  "size": "14.0 MB"
+                },
+                {
+                  "id": "std9_maths2_textbook",
+                  "name": "Maths 2 Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-Maths 2-Textbook.pdf",
+                  "size": "14.0 MB"
+                },
+                {
+                  "id": "std9_Science_textbook",
+                  "name": "Science Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-9/Resources/Textbooks/9th-Science-Textbook.pdf",
+                  "size": "14.0 MB"
+                }
+              ]
+            },
+            {
+              "id": "std9_digests",
+              "name": "Digests",
+              "folders": [],
+              "files": [
+                {
+                  "id": "std9_science_digest",
+                  "name": "Science Digest",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/School/Std-9/Digests/science_digest.pdf",
+                  "size": "8.5 MB"
+                }
+              ]
+            }
+          ],
+          "files": []
+        },
+        {
           "id": "std10_resources",
           "name": "Std-10",
           "folders": [
