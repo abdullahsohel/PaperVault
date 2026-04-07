@@ -420,8 +420,8 @@
     },
 
     {
-      "id": "diploma1",
-      "name": "Diploma1",
+      "id": "diploma2",
+      "name": "Diploma2",
       "description": "Engineering Branches",
       "icon": "engineering",
       "folders": [
