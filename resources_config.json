@@ -137,14 +137,27 @@
             {
               "id": "std11_science_textbooks",
               "name": "Std-11 Textbooks",
-              "folders": [],
+              "folders": [              ],
               "files": []
             },
             {
               "id": "std12_science_digests",
-              "name": "Std-12 Digests",
+              "name": "Std-12 Textbooks",
               "folders": [],
-              "files": []
+              "files": [
+                {
+                  "id": "std12_physics",
+                  "name": "Physics Textbook",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Textbooks/12th-Physics-Textbook.pdf",
+                  "size": "8.5 MB"
+                },
+                {
+                  "id": "std12_chemistry_digest",
+                  "name": "Chemistry Digest",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/chemistry_digest.pdf",
+                  "size": "8.5 MB"
+                }
+              ]
             }
           ],
           "files": []
