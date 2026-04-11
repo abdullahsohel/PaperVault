@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-11",
+  "categories": [
+    {
+      "id": "diploma_handwritten_notes",
+      "name": "Diploma",
+      "description": "Semester-wise handwritten notes",
+      "icon": "engineering",
+      "folders": [
+        {
+          "id": "diploma_computer_notes",
+          "name": "Computer Engineering",
+          "isNew": true,
+          "newTagVersion": 1,
+          "provider": {
+            "name": "Campus Notes Hub",
+            "owner": "Prof. A. Shaikh",
+            "description": "Curated notes prepared by faculty and verified toppers for diploma computer engineering students."
+          },
+          "folders": [
+            {
+              "id": "comp_sem4_notes",
+              "name": "Semester 4",
+              "provider": {
+                "name": "Campus Notes Hub",
+                "owner": "Prof. A. Shaikh",
+                "description": "Unit-wise notes with solved examples and quick revision points."
+              },
+              "folders": [],
+              "files": [
+                {
+                  "id": "dbms_handwritten_notes",
+                  "name": "DBMS Handwritten Notes",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/Diploma/Computer/Sem-4/dbms_handwritten_notes.pdf",
+                  "size": "7.2 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "Campus Notes Hub",
+                    "owner": "Prof. A. Shaikh",
+                    "description": "Prepared from latest syllabus with expected viva questions."
+                  }
+                },
+                {
+                  "id": "cn_handwritten_notes",
+                  "name": "Computer Networks Handwritten Notes",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/Diploma/Computer/Sem-4/cn_handwritten_notes.pdf",
+                  "size": "6.8 MB",
+                  "provider": {
+                    "name": "Campus Notes Hub",
+                    "owner": "Prof. A. Shaikh",
+                    "description": "Concept maps and protocol summary sheets for quick prep."
+                  }
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ]
+    },
+    {
+       "id": "Junior_college_handwritten_notes",
+      "name": "Junior College",
+      "description": "Subject wise handwritten notes",
+      "icon": "auto_stories",
+       "folders": [
+        {
+          "id": "science",
+          "name": "Science",
+             "folders": [
+        {
+          "id": "sci11",
+          "name": "Std-11",
+          "folders": [
+            { "id": "phy11", "name": "Physics", "folders": [], "files": [] },
+            { "id": "chem11", "name": "Chemistry", "folders": [], "files": [] },
+            { "id": "math11", "name": "Mathematics", "folders": [], "files": [] },
+            { "id": "bio11", "name": "Biology", "folders": [], "files": [] }
+          ],
+          "files": []
+        },
+        {
+          "id": "sci12",
+          "name": "Std-12",
+          "folders": [
+            { 
+            "id": "phy12", 
+            "name": "Physics", 
+            "folders": [], 
+            "files": [
+        {  
+                "id": "phy12_ch1",
+                "name": "Rotational Motion",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Rotational Motion - SYJC.pdf",
+                "size": "7.5 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch2",
+                "name": "Mechanical properties of Fluids",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Mechanical properties of Fluids - SYJC.pdf",
+                "size": "10 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch3",
+                "name": "Kinetic Theory of gases",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Kinetic Theory of gases - SYJC.pdf",
+                "size": "13.2 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch4",
+                "name": "Thermodynamics",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Thermodynamics - SYJC.pdf",
+                "size": "5.8 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch5",
+                "name": "Oscillation",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Oscillation - SYJC notes.pdf",
+                "size": "9.8 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch6",
+                "name": "Superposition of waves",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Superposition of waves- SYJC (Updated).pdf",
+                "size": "14.7 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch7",
+                "name": "Wave optics",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Wave optics - SYJC.pdf",
+                "size": "8.2 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch8",
+                "name": "Electrostatics",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Electrostatics- SYJC.pdf",
+                "size": "-- MB",
+                  "isNew": false,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch9",
+                "name": "Current Electricity",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Current Electricity (SYJC).pdf",
+                "size": "4.9 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch10",
+                "name": "Magnetic fields due to electric current",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Magnetic fields due to electric current- SYJC.pdf",
+                "size": "-- MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch11",
+                "name": "Magnetic Materials",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Magnetic Materials - SYJC.pdf",
+                "size": "5.5 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch12",
+                "name": "Electromagnetic induction",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Electromagnetic induction (SYJC).pdf",
+                "size": "7.5 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch13",
+                "name": "AC circuits",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/AC circuits - SYJC Notes.pdf",
+                "size": "12.4 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch14",
+                "name": "Dual Nature of Radiation & Matter",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Dual Nature of Radiation & Matter (SYJC).pdf",
+                "size": "4.7 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch15",
+                "name": "Structure of Atom and Nuclei",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Structure of Atom and Nuclei (SYJC).pdf",
+                "size": "-- MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        },
+        {  
+                "id": "phy12_ch16",
+                "name": "Semiconductors",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Semiconductors - SYJC.pdf",
+                "size": "4.7 MB",
+                  "isNew": true,
+                  "newTagVersion": 1,
+                  "provider": {
+                    "name": "ARK Notes",
+                    "owner": "Abdul Rehman Khan",
+                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                }
+        }
+    ] 
+        },
+            { "id": "chem12", "name": "Chemistry", "folders": [], "files": [] },
+            { "id": "math12", "name": "Mathematics", "folders": [], "files": [] },
+            { "id": "bio12", "name": "Biology", "folders": [], "files": [] }
+          ],
+          "files": []
+        }
+      ],
+          "files": []
+        },
+        {
+          "id": "commerce",
+          "name": "Commerce",
+          "folders": [
+            { "id": "com11", "name": "Std-11", "folders": [], "files": [] },
+            { "id": "com12", "name": "Std-12", "folders": [], "files": [] }
+          ],
+          "files": []
+        },
+        {
+          "id": "arts",
+          "name": "Arts",
+          "folders": [
+            { "id": "arts11", "name": "Std-11", "folders": [], "files": [] },
+            { "id": "arts12", "name": "Std-12", "folders": [], "files": [] }
+          ],
+          "files": []
+        }
+      ]
+    }
+  ]
+}
