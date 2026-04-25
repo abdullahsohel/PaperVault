@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-18",
+  "folders": [
+    {
+      "id": "programming_basics",
+      "name": "Programming Basics",
+      "description": "Fundamental concepts for coding interviews and exams",
+      "subjects": [
+        {
+          "id": "c_language",
+          "name": "C Language",
+          "description": "Syntax, pointers, memory, and control flow",
+          "cards": [
+            {
+              "id": "c_declaration",
+              "front": "How do you declare an integer variable in C?",
+              "back": "Use int variableName; Example: int marks;"
+            },
+            {
+              "id": "c_pointer",
+              "front": "What does a pointer store?",
+              "back": "A pointer stores the memory address of another variable."
+            },
+            {
+              "id": "c_call_by_reference",
+              "front": "Why use call by reference?",
+              "back": "It lets a function modify original variables and avoids copying large data."
+            }
+          ]
+        },
+        {
+          "id": "data_structures",
+          "name": "Data Structures",
+          "description": "Arrays, linked lists, stacks, and trees",
+          "cards": [
+            {
+              "id": "ds_stack",
+              "front": "What is stack overflow?",
+              "back": "It occurs when you push more items than the stack capacity allows."
+            },
+            {
+              "id": "ds_queue",
+              "front": "Queue follows which principle?",
+              "back": "FIFO: First In, First Out."
+            },
+            {
+              "id": "ds_tree_image",
+              "front": "Identify this structure and one key property.",
+              "back": "Binary tree: each node has at most two children.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_tree.svg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mathematics",
+      "name": "Engineering Mathematics",
+      "description": "Quick formulas and definitions",
+      "subjects": [
+        {
+          "id": "calculus",
+          "name": "Calculus",
+          "description": "Differentiation and integration essentials",
+          "cards": [
+            {
+              "id": "calculus_power_rule",
+              "front": "State the power rule for differentiation.",
+              "back": "If f(x) = x^n, then f'(x) = n*x^(n-1)."
+            },
+            {
+              "id": "calculus_chain_rule",
+              "front": "When do we use the chain rule?",
+              "back": "When a function is composed inside another function, e.g., f(g(x))."
+            }
+          ]
+        },
+        {
+          "id": "probability",
+          "name": "Probability",
+          "description": "Common exam facts",
+          "cards": [
+            {
+              "id": "prob_range",
+              "front": "What is the range of probability values?",
+              "back": "0 <= P(E) <= 1"
+            },
+            {
+              "id": "prob_complement",
+              "front": "What is the complement rule?",
+              "back": "P(E') = 1 - P(E)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
