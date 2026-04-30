@@ -148,7 +148,7 @@
                 {
                   "id": "std12_physics",
                   "name": "Physics Textbook",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/Junior-College/Science/resources/12th-Physics-Textbook.pdf",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Textbooks/12th-Physics-Textbook.pdf",
                   "size": "8.5 MB"
                 },
                 {
@@ -156,6 +156,43 @@
                   "name": "Chemistry Digest",
                   "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/chemistry_digest.pdf",
                   "size": "8.5 MB"
+                }
+              ]
+            },
+            {
+              "id": "std12_digest_bio",
+              "name": "Std-12 Digests",
+              "folders": [],
+              "files": [
+                {
+                  "id": "std12_biology_ch01",
+                  "name": "Biology Chapter 01",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-01.pdf",
+                  "size": "6.2 MB"
+                },
+                {
+                  "id": "std12_biology_ch02",
+                  "name": "Biology Chapter 02",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-02.pdf",
+                  "size": "5.9 MB"
+                },
+                {
+                  "id": "std12_biology_ch03",
+                  "name": "Biology Chapter 03",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-03.pdf",
+                  "size": "6.4 MB"
+                },
+                {
+                  "id": "std12_biology_ch04",
+                  "name": "Biology Chapter 04",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-04.pdf",
+                  "size": "6.1 MB"
+                },
+                {
+                  "id": "std12_biology_ch05",
+                  "name": "Biology Chapter 05",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-05.pdf",
+                  "size": "6.0 MB"
                 }
               ]
             }
