@@ -165,34 +165,42 @@
               "folders": [],
               "files": [
                 {
-                  "id": "std12_biology_ch01",
-                  "name": "Biology Chapter 01",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-01.pdf",
-                  "size": "6.2 MB"
-                },
-                {
-                  "id": "std12_biology_ch02",
-                  "name": "Biology Chapter 02",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-02.pdf",
-                  "size": "5.9 MB"
-                },
-                {
-                  "id": "std12_biology_ch03",
-                  "name": "Biology Chapter 03",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-03.pdf",
-                  "size": "6.4 MB"
-                },
-                {
-                  "id": "std12_biology_ch04",
-                  "name": "Biology Chapter 04",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-04.pdf",
-                  "size": "6.1 MB"
-                },
-                {
-                  "id": "std12_biology_ch05",
-                  "name": "Biology Chapter 05",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Resources/JuniorCollege/Science/Std-12/Digests/biology/chapter-05.pdf",
-                  "size": "6.0 MB"
+                  "id": "std12_biology_digest",
+                  "name": "Biology Digest",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/resources/ilovepdf_merged-8-39.pdf",
+                  "size": "5 chapters",
+                  "chapterParts": [
+                    {
+                      "id": "std12_biology_ch01",
+                      "name": "Biology Chapter 01",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/resources/ilovepdf_merged-8-39.pdf",
+                      "size": "6.2 MB"
+                    },
+                    {
+                      "id": "std12_biology_ch02",
+                      "name": "Biology Chapter 02",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/resources/ilovepdf_merged-40-84.pdf",
+                      "size": "5.9 MB"
+                    },
+                    {
+                      "id": "std12_biology_ch03",
+                      "name": "Biology Chapter 03",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/resources/ilovepdf_merged-85-122.pdf",
+                      "size": "6.4 MB"
+                    },
+                    {
+                      "id": "std12_biology_ch04",
+                      "name": "Biology Chapter 04",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/resources/ilovepdf_merged-123-157.pdf",
+                      "size": "6.1 MB"
+                    },
+                    {
+                      "id": "std12_biology_ch05",
+                      "name": "Biology Chapter 05",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/resources/ilovepdf_merged-158-191.pdf",
+                      "size": "6.0 MB"
+                    }
+                  ]
                 }
               ]
             }
