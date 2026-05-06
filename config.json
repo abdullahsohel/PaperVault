@@ -364,12 +364,12 @@
               "files": [
                 {
                   "id": "phy_12_jun25",
-                  "name": "Physics - Jun 25",
+                  "name": "Physics - June 25",
                   "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jun 25.pdf",
                   "size": "1 MB",
                   "answerKey": {
                     "id": "phy_12_jun25_ans",
-                    "name": "Physics - Jun 25 Answer Key",
+                    "name": "Physics - June 25 Answer Key",
                     "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jun 25.pdf",
                     "size": "1 MB"
                   }
@@ -395,6 +395,54 @@
                     "id": "phy_12_feb24_ans",
                     "name": "Physics - Feb 24 Answer Key",
                     "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_jul23",
+                  "name": "Physics - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_jul23_ans",
+                    "name": "Physics - July 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_mar23",
+                  "name": "Physics - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_mar23_ans",
+                    "name": "Physics - Mar 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_jul22",
+                  "name": "Physics - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_july22_ans",
+                    "name": "Physics - July 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                 {
+                  "id": "phy_12_mar22",
+                  "name": "Physics - Mar 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_mar22_ans",
+                    "name": "Physics - Mar 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 22.pdf",
                     "size": "1 MB"
                   }
                 }
