@@ -452,13 +452,210 @@
               "id": "chemistry",
               "name": "Chemistry",
               "folders": [],
-              "files": []
+              "files": [
+                {
+                  "id": "chm_12_jul25",
+                  "name": "Chemistry - July 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_jul25_ans",
+                    "name": "Chemistry - July 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_feb25",
+                  "name": "Chemistry - Feb 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_feb25_ans",
+                    "name": "Chemistry - Feb 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_feb24",
+                  "name": "Chemistry - Feb 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_feb24_ans",
+                    "name": "Chemistry - Feb 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_jul23",
+                  "name": "Chemistry - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_jul23_ans",
+                    "name": "Chemistry - July 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_mar23",
+                  "name": "Chemistry - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Mar 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_mar23_ans",
+                    "name": "Chemistry - Mar 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Mar 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_jul22",
+                  "name": "Chemistry - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_jul22_ans",
+                    "name": "Chemistry - July 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_mar22",
+                  "name": "Chemistry - March 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Mar 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_mar22_ans",
+                    "name": "Chemistry - March 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Mar 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_feb20",
+                  "name": "Chemistry - Feb 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 20.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_feb20_ans",
+                    "name": "Chemistry - Feb 20 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 20.pdf",
+                    "size": "1 MB"
+                  }
+                }
+              ]
             },
             {
               "id": "maths",
               "name": "Mathematics",
               "folders": [],
-              "files": []
+              "files": [
+
+                {
+                  "id": "maths_12_feb25",
+                  "name": "Maths - Feb 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Feb 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_feb25_ans",
+                    "name": "Maths - Feb 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Feb 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_jul24",
+                  "name": "Maths - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_jul24_ans",
+                    "name": "Maths - July 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_mar24",
+                  "name": "Maths - Mar 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_mar24_ans",
+                    "name": "Maths - Mar 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_jul23",
+                  "name": "Maths - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_jul23_ans",
+                    "name": "Maths - July 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_mar23",
+                  "name": "Maths - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_mar23_ans",
+                    "name": "Maths - Mar 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_jul22",
+                  "name": "Maths - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 22.pdf",
+                  "size": "-- MB",
+                  "answerKey": {
+                    "id": "maths_12_jul22_ans",
+                    "name": "Maths - July 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 22.pdf",
+                    "size": "-- MB"
+                  }
+                },
+                {
+                  "id": "maths_12_mar22",
+                  "name": "Maths - March 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_mar22_ans",
+                    "name": "Maths - March 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_feb20",
+                  "name": "Maths - Feb 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Feb 20.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_feb20_ans",
+                    "name": "Maths - Feb 20 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Feb 20.pdf",
+                    "size": "1 MB"
+                  }
+                }                
+
+
+              ]
             },
             {
               "id": "biology",
