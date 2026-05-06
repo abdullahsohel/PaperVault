@@ -338,138 +338,132 @@
     },
 
     {
-      "id": "junior_college",
-      "name": "Junior College",
-      "description": "11th & 12th",
-      "icon": "auto_stories",
-      "folders": [
-        {
-          "id": "science",
-          "name": "Science",
+          "id": "junior_college",
+          "name": "Junior College",
+          "description": "11th & 12th",
+          "icon": "auto_stories",
           "folders": [
-            { "id": "sci11", "name": "Std-11", "folders": [], "files": [] },
-            { "id": "sci12", "name": "Std-12", "folders": [
-              { "id": "physics", "name": "Physics", "folders": [], 
+                  {
+                  "id": "science",
+                  "name": "Science",
+                  "folders": [
+                            {
+                            "id": "sci11",
+                    "name": "Std-11",
+                    "folders": [],
+                    "files": []
+                  },
+                  {
+                    "id": "sci12",
+                    "name": "Std-12",
+                    "folders": [
+            {
+              "id": "physics",
+              "name": "Physics",
+              "folders": [],
               "files": [
-                 {
-                  "id": "Physics_12",
-                  "name": "Physics - Mar 22",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 22.pdf",
-                  "size": "1 MB",
-                  "answerKey": {
-                    "id": "Physics_12_answers",
-                    "name": "Physics - Mar 22 Answer Key",
-                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 22.pdf",
-                    "size": "1 MB"
-                  }
-                  
-                  
-                },
                 {
-                  "id": "Physics_12",
-                  "name": "Physics - July 22",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 22.pdf",
-                  "size": "1 MB",
-                  "answerKey": {
-                    "id": "Physics_12_answers",
-                    "name": "Physics - July 22 Answer Key",
-                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 22.pdf",
-                    "size": "1 MB"
-                  }
-                  
-                  
-                },
-                {
-                  "id": "Physics_12",
-                  "name": "Physics - Feb 23",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 23.pdf",
-                  "size": "1 MB",
-                  "answerKey": {
-                    "id": "Physics_12_answers",
-                    "name": "Physics - Feb 23 Answer Key",
-                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 23.pdf",
-                    "size": "1 MB"
-                  } 
-                },
-                {
-                  "id": "Physics_12",
-                  "name": "Physics - Jul 23",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 23.pdf",
-                  "size": "1 MB",
-                  "answerKey": {
-                    "id": "Physics_12_answers",
-                    "name": "Physics - Jul 23 Answer Key",
-                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 23.pdf",
-                    "size": "1 MB"
-                  } 
-                },
-                {
-                  "id": "Physics_12",
-                  "name": "Physics - Feb 24",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 24.pdf",
-                  "size": "1 MB",
-                  "answerKey": {
-                    "id": "Physics_12_answers",
-                    "name": "Physics - Feb 24 Answer Key",
-                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 24.pdf",
-                    "size": "1 MB"
-                  } 
-                },
-                {
-                  "id": "Physics_12",
-                  "name": "Physics - Jul 24",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 24.pdf",
-                  "size": "1 MB",
-                  "answerKey": {
-                    "id": "Physics_12_answers",
-                    "name": "Physics - Jul 24 Answer Key",
-                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 24.pdf",
-                    "size": "1 MB"
-                  } 
-                },
-                {
-                  "id": "Physics_12",
+                  "id": "phy_12_jun25",
                   "name": "Physics - Jun 25",
                   "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jun 25.pdf",
                   "size": "1 MB",
                   "answerKey": {
-                    "id": "Physics_12_answers",
+                    "id": "phy_12_jun25_ans",
                     "name": "Physics - Jun 25 Answer Key",
                     "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jun 25.pdf",
                     "size": "1 MB"
-                  } 
+                  }
+                },
+                {
+                  "id": "phy_12_jul24",
+                  "name": "Physics - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_jul24_ans",
+                    "name": "Physics - July 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_feb24",
+                  "name": "Physics - Feb 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_feb24_ans",
+                    "name": "Physics - Feb 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 24.pdf",
+                    "size": "1 MB"
+                  }
                 }
-              
-                ] },
-              { "id": "chemistry", "name": "Chemistry", "folders": [], "files": [] },
-              { "id": "maths", "name": "Mathematics", "folders": [], "files": [] },
-              { "id": "biology", "name": "Biology", "folders": [
-            ], "files": [] }
-          ],
-          "files": []
-        },
-        {
-          "id": "commerce",
-          "name": "Commerce",
-          "folders": [
-            { "id": "com11", "name": "Std-11", "folders": [], "files": [] },
-            { "id": "com12", "name": "Std-12", "folders": [], "files": [] }
-          ],
-          "files": []
-        },
-        {
-          "id": "arts",
-          "name": "Arts",
-          "folders": [
-            { "id": "arts11", "name": "Std-11", "folders": [], "files": [] },
-            { "id": "arts12", "name": "Std-12", "folders": [], "files": [] }
+              ]
+            },
+            {
+              "id": "chemistry",
+              "name": "Chemistry",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "maths",
+              "name": "Mathematics",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "biology",
+              "name": "Biology",
+              "folders": [],
+              "files": []
+            }
           ],
           "files": []
         }
-      ]
-    }
-      ]
+      ],
+      "files": []
     },
+    {
+      "id": "commerce",
+      "name": "Commerce",
+      "folders": [
+        {
+          "id": "com11",
+          "name": "Std-11",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "com12",
+          "name": "Std-12",
+          "folders": [],
+          "files": []
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": "arts",
+      "name": "Arts",
+      "folders": [
+        {
+          "id": "arts11",
+          "name": "Std-11",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "arts12",
+          "name": "Std-12",
+          "folders": [],
+          "files": []
+        }
+      ],
+      "files": []
+    }
+  ]
+},
     {
       "id": "diploma",
       "name": "Diploma",
