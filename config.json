@@ -1288,7 +1288,65 @@
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 22.pdf",
                 "size": "1 MB"
               }
+            ] },
+
+            { "id": "coa", "name": "Computer Architecture", "folders": [], 
+            "files": [
+
+              {
+                "id": "coa_dec_2019",
+                "name": "COA - Dec 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_may_2019",
+                "name": "COA - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_dec_2018",
+                "name": "COA - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_may_2018",
+                "name": "COA - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 18.pdf",
+                "size": "1 MB"
+              }
+            ] },
+            { "id": "cgr", "name": "Computer Graphics", "folders": [], 
+            "files": [
+
+              {
+                "id": "cgr_dec_2019",
+                "name": "CG - Dec 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "cgr_may_2019",
+                "name": "CG - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "cgr_dec_2018",
+                "name": "CG - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "cgr_may_2018",
+                "name": "CG - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 18.pdf",
+                "size": "1 MB"
+              }
             ] }
+
 
             ], "files": [] },
             { "id": "dc4", "name": "Sem-4", "folders": [], "files": [] },
