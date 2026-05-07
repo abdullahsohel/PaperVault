@@ -1316,6 +1316,54 @@
                 "name": "COA - May 18",
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 18.pdf",
                 "size": "1 MB"
+              },
+              {
+                "id": "coa_dec_2017",
+                "name": "COA - Dec 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 17.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_may_2017",
+                "name": "COA - May 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 17.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_dec_2016",
+                "name": "COA - Dec 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 16.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_may_2016",
+                "name": "COA - May 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 16.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_dec_2015",
+                "name": "COA - Dec 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 15.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_may_2015",
+                "name": "COA - May 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 15.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_dec_2014",
+                "name": "COA - Dec 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 14.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "coa_may_2014",
+                "name": "COA - May 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 14.pdf",
+                "size": "1 MB"
               }
             ] },
             { "id": "cgr", "name": "Computer Graphics", "folders": [], 
@@ -1384,3 +1432,4 @@
     
   ]
 }
+
