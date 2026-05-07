@@ -1,4 +1,1208 @@
-{ "id": "aoa", "name": "Analysis of Algorithm", "folders": [], 
+{
+  "version": 2,
+  "lastUpdated": "2026-04-03",
+  "categories": [
+    {
+      "id": "school",
+      "name": "School",
+      "description": "Standards 1-10",
+      "icon": "school",
+      "folders": [
+        { "id": "std1", "name": "Std-1", "folders": [], "files": [] },
+        { "id": "std2", "name": "Std-2", "folders": [], "files": [] },
+        { "id": "std3", "name": "Std-3", "folders": [], "files": [] },
+        { "id": "std4", "name": "Std-4", "folders": [], "files": [] },
+        { "id": "std5", "name": "Std-5", "folders": [], "files": [] },
+        { "id": "std6", "name": "Std-6", "folders": [], "files": [] },
+        { "id": "std7", "name": "Std-7", "folders": [], "files": [] },
+        { "id": "std8", "name": "Std-8", "folders": [], "files": [] },
+        { "id": "std9", "name": "Std-9", "folders": [], "files": [] },
+        {
+          "id": "std10",
+          "name": "Std-10",
+          "folders": [
+            {
+              "id": "maths1",
+              "name": "Mathematics 1",
+              "folders": [],
+              "files": [
+                {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - July 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-july 2025.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths1_2024_answers",
+                    "name": "Maths 1 - July 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-july 2025.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - Mar 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-Mar 2025.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-july 2024.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - Mar 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-Mar 2024.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-july 2023.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-Mar 2023.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-july 2022.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - Mar 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-Mar 2022.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths1_2024",
+                  "name": "Maths 1 - Nov 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Maths 1-Nov 2020.pdf",
+                  "size": "1 MB"
+                }
+              ]
+            },
+            {
+              "id": "maths2",
+              "name": "Mathematics 2",
+              "folders": [],
+              "files": [
+                {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - July 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-july 2025.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - Mar 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-Mar 2025.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-july 2024.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - Mar 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-Mar 2024.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-july 2023.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-Mar 2023.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-july 2022.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - Mar 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-Mar 2022.pdf",
+                  "size": "1 MB"
+                },
+                 {
+                  "id": "maths2_2024",
+                  "name": "Maths 2 - Nov 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-2/10th-Maths 2-Nov 2020.pdf",
+                  "size": "1 MB"
+                }
+              ]
+            },
+            {
+              "id": "science1",
+              "name": "Science 1",
+              "folders": [],
+              "files": [
+                {
+                  "id": "science1_2024",
+                  "name": "Science 1 - July 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-july 2025.pdf",
+                  "size": "1.0 MB"
+                },
+               {
+                  "id": "science1_2024",
+                  "name": "Science 1 - Mar 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-Mar 2025.pdf",
+                  "size": "1.0 MB"
+                },
+                 {
+                  "id": "science1_2024",
+                  "name": "Science 1 - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-july 2024.pdf",
+                  "size": "1.0 MB"
+                },
+                 {
+                  "id": "science1_2024",
+                  "name": "Science 1 - Mar 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-Mar 2024.pdf",
+                  "size": "1.0 MB"
+                },
+                 {
+                  "id": "science1_2024",
+                  "name": "Science 1 - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-july 2023.pdf",
+                  "size": "1.0 MB"
+                },
+                 {
+                  "id": "science1_2024",
+                  "name": "Science 1 - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-Mar 2023.pdf",
+                  "size": "1.0 MB"
+                },
+                 {
+                  "id": "science1_2024",
+                  "name": "Science 1 - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-july 2022.pdf",
+                  "size": "1.0 MB"
+                },
+                 {
+                  "id": "science1_2024",
+                  "name": "Science 1 - Mar 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-Mar 2022.pdf",
+                  "size": "1.0 MB"
+                },
+                 {
+                  "id": "science1_2024",
+                  "name": "Science 1 - July 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-july 2020.pdf",
+                  "size": "1.0 MB"
+                },
+                 {
+                  "id": "science1_2024",
+                  "name": "Science 1 - Mar 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Maths-1/10th-Sci 1-Mar 2020.pdf",
+                  "size": "1.0 MB"
+                }
+              
+              ]
+            },
+            {
+              "id": "science2",
+              "name": "Science 2",
+              "folders": [],
+              "files": [
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - July 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-july 2025.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - Mar 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-Mar 2025.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-july 2024.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - Mar 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-Mar 2024.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-july 2023.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-Mar 2023.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-july 2022.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - Mar 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-Mar 2022.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "science2_2024",
+                  "name": "Science 2 - Dec 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Science-2/10th-Sci 2-Dec 2020.pdf",
+                  "size": "1 MB"
+                }
+                
+              ]
+            },
+            {
+              "id": "english",
+              "name": "English",
+              "folders": [],
+              "files": [
+                {
+                  "id": "english_2024",
+                  "name": "English - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/English_2024.pdf",
+                  "size": "1.8 MB"
+                }
+              ]
+            },
+            {
+              "id": "history_geography",
+              "name": "History & Geography",
+              "folders": [],
+              "files": [
+                {
+                  "id": "hist_geo_2024",
+                  "name": "History & Geography - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/History_Geography_2024.pdf",
+                  "size": "2.2 MB"
+                }
+              ]
+            },
+            {
+              "id": "hindi",
+              "name": "Hindi",
+              "folders": [],
+              "files": [
+                {
+                  "id": "hindi_2024",
+                  "name": "Hindi - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Hindi_2024.pdf",
+                  "size": "1.9 MB"
+                }
+              ]
+            },
+            {
+              "id": "marathi",
+              "name": "Marathi",
+              "folders": [],
+              "files": [
+                {
+                  "id": "marathi_2024",
+                  "name": "Marathi - 2024",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/School/Std-10/Marathi_2024.pdf",
+                  "size": "2.0 MB"
+                }
+              ]
+            }
+          ],
+          "files": []
+        }
+      ]
+    },
+
+    {
+          "id": "junior_college",
+          "name": "Junior College",
+          "description": "11th & 12th",
+          "icon": "auto_stories",
+          "folders": [
+                  {
+                  "id": "science",
+                  "name": "Science",
+                  "folders": [
+                            {
+                            "id": "sci11",
+                    "name": "Std-11",
+                    "folders": [],
+                    "files": []
+                  },
+                  {
+                    "id": "sci12",
+                    "name": "Std-12",
+                    "folders": [
+            {
+              "id": "physics",
+              "name": "Physics",
+              "folders": [],
+              "files": [
+                {
+                  "id": "phy_12_jun25",
+                  "name": "Physics - June 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jun 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_jun25_ans",
+                    "name": "Physics - June 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jun 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_jul24",
+                  "name": "Physics - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_jul24_ans",
+                    "name": "Physics - July 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_feb24",
+                  "name": "Physics - Feb 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_feb24_ans",
+                    "name": "Physics - Feb 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Feb 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_jul23",
+                  "name": "Physics - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_jul23_ans",
+                    "name": "Physics - July 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_mar23",
+                  "name": "Physics - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_mar23_ans",
+                    "name": "Physics - Mar 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "phy_12_jul22",
+                  "name": "Physics - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_july22_ans",
+                    "name": "Physics - July 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Jul 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                 {
+                  "id": "phy_12_mar22",
+                  "name": "Physics - Mar 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "phy_12_mar22_ans",
+                    "name": "Physics - Mar 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Physics-Question Paper-Mar 22.pdf",
+                    "size": "1 MB"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "chemistry",
+              "name": "Chemistry",
+              "folders": [],
+              "files": [
+                {
+                  "id": "chm_12_jul25",
+                  "name": "Chemistry - July 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_jul25_ans",
+                    "name": "Chemistry - July 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_feb25",
+                  "name": "Chemistry - Feb 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_feb25_ans",
+                    "name": "Chemistry - Feb 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_feb24",
+                  "name": "Chemistry - Feb 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_feb24_ans",
+                    "name": "Chemistry - Feb 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_jul23",
+                  "name": "Chemistry - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_jul23_ans",
+                    "name": "Chemistry - July 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_mar23",
+                  "name": "Chemistry - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Mar 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_mar23_ans",
+                    "name": "Chemistry - Mar 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Mar 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_jul22",
+                  "name": "Chemistry - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_jul22_ans",
+                    "name": "Chemistry - July 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Jul 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_mar22",
+                  "name": "Chemistry - Mar 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Mar 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_mar22_ans",
+                    "name": "Chemistry - Mar 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Mar 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "chm_12_feb20",
+                  "name": "Chemistry - Feb 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 20.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "chm_12_feb20_ans",
+                    "name": "Chemistry - Feb 20 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Chemistry-Question Paper-Feb 20.pdf",
+                    "size": "1 MB"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "maths",
+              "name": "Mathematics",
+              "folders": [],
+              "files": [
+
+                {
+                  "id": "maths_12_feb25",
+                  "name": "Maths - Feb 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Feb 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_feb25_ans",
+                    "name": "Maths - Feb 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Feb 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_jul24",
+                  "name": "Maths - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_jul24_ans",
+                    "name": "Maths - July 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_mar24",
+                  "name": "Maths - Mar 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_mar24_ans",
+                    "name": "Maths - Mar 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_jul23",
+                  "name": "Maths - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_jul23_ans",
+                    "name": "Maths - July 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_mar23",
+                  "name": "Maths - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_mar23_ans",
+                    "name": "Maths - Mar 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_jul22",
+                  "name": "Maths - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 22.pdf",
+                  "size": "-- MB",
+                  "answerKey": {
+                    "id": "maths_12_jul22_ans",
+                    "name": "Maths - July 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Jul 22.pdf",
+                    "size": "-- MB"
+                  }
+                },
+                {
+                  "id": "maths_12_mar22",
+                  "name": "Maths - Mar 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_mar22_ans",
+                    "name": "Maths - Mar 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Mar 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "maths_12_feb20",
+                  "name": "Maths - Feb 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Feb 20.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "maths_12_feb20_ans",
+                    "name": "Maths - Feb 20 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Maths-Question Paper-Feb 20.pdf",
+                    "size": "1 MB"
+                  }
+                }                
+
+
+              ]
+            },
+            {
+              "id": "biology",
+              "name": "Biology",
+              "folders": [],
+              "files": [
+                {
+                  "id": "bio_12_jul25",
+                  "name": "Biology - Jul 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Jul 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_jul25_ans",
+                    "name": "Biology - Jul 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Jul 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "bio_12_feb25",
+                  "name": "Biology - Feb 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Feb 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_feb25_ans",
+                    "name": "Biology - Feb 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Feb 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "bio_12_jul24",
+                  "name": "Biology - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Jul 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_jul24_ans",
+                    "name": "Biology - July 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Jul 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "bio_12_mar24",
+                  "name": "Biology - Mar 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Mar 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_mar24_ans",
+                    "name": "Biology - Mar 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Mar 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "bio_12_jul23",
+                  "name": "Biology - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Jul 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_jul23_ans",
+                    "name": "Biology - July 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Jul 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "bio_12_mar23",
+                  "name": "Biology - Mar 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Mar 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_mar23_ans",
+                    "name": "Biology - Mar 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Mar 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "bio_12_jul22",
+                  "name": "Biology - July 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Jul 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_jul22_ans",
+                    "name": "Biology - July 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Jul 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "bio_12_mar22",
+                  "name": "Biology - March 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Mar 22.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_mar22_ans",
+                    "name": "Biology - March 22 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Mar 22.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "bio_12_mar20",
+                  "name": "Biology - Mar 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Mar 20.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "bio_12_mar20_ans",
+                    "name": "Biology - Mar 20 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-Biology-Question Paper-Mar 20.pdf",
+                    "size": "1 MB"
+                  }
+                }                
+              ]
+            },
+            {
+              "id": "english",
+              "name": "English",
+              "folders": [],
+              "files": [
+                {
+                  "id": "eng_12_jun25",
+                  "name": "English - June 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Jun 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "eng_12_jun25_ans",
+                    "name": "English - June 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Jun 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "eng_12_feb25",
+                  "name": "English - Feb 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Feb 25.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "eng_12_feb25_ans",
+                    "name": "English - Feb 25 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Feb 25.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "eng_12_jul24",
+                  "name": "English - July 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Jul 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "eng_12_jul24_ans",
+                    "name": "English - July 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Jul 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "eng_12_feb24",
+                  "name": "English - Feb 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Feb 24.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "eng_12_feb24_ans",
+                    "name": "English - Feb 24 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Feb 24.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "eng_12_jul23",
+                  "name": "English - July 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Jul 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "eng_12_jul23_ans",
+                    "name": "English - July 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Jul 23.pdf",
+                    "size": "1 MB"
+                  }
+                },
+                {
+                  "id": "eng_12_feb23",
+                  "name": "English - Feb 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Feb 23.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "eng_12_feb23_ans",
+                    "name": "English - Feb 23 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Feb 23.pdf",
+                    "size": "1 MB"
+                  }
+                },            
+                {
+                  "id": "eng_12_feb20",
+                  "name": "English - Feb 20",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Feb 20.pdf",
+                  "size": "1 MB",
+                  "answerKey": {
+                    "id": "eng_12_feb20_ans",
+                    "name": "English - Feb 20 Answer Key",
+                    "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/Past Papers/12th-English-Question Paper-Feb 20.pdf",
+                    "size": "1 MB"
+                  }
+                }                
+              ]
+            }
+          ],
+          "files": []
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": "commerce",
+      "name": "Commerce",
+      "folders": [
+        {
+          "id": "com11",
+          "name": "Std-11",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "com12",
+          "name": "Std-12",
+          "folders": [],
+          "files": []
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": "arts",
+      "name": "Arts",
+      "folders": [
+        {
+          "id": "arts11",
+          "name": "Std-11",
+          "folders": [],
+          "files": []
+        },
+        {
+          "id": "arts12",
+          "name": "Std-12",
+          "folders": [],
+          "files": []
+        }
+      ],
+      "files": []
+    }
+  ]
+},
+    {
+      "id": "diploma",
+      "name": "Diploma",
+      "description": "Engineering",
+      "icon": "engineering",
+      "folders": [
+        {
+          "id": "computer",
+          "name": "Computer",
+          "folders": [
+            { "id": "c1", "name": "Sem-1", "folders": [], "files": [] },
+            { "id": "c2", "name": "Sem-2", "folders": [], "files": [] },
+            { "id": "c3", "name": "Sem-3", "folders": [], "files": [] },
+            { "id": "c4", "name": "Sem-4", "folders": [], "files": [] },
+            { "id": "c5", "name": "Sem-5", "folders": [], "files": [] },
+            { "id": "c6", "name": "Sem-6", "folders": [], "files": [] }
+          ],
+          "files": []
+        }
+      ]
+    },
+
+    {
+      "id": "degree",
+      "name": "Degree",
+      "description": "Bachelor Programs",
+      "icon": "workspace_premium",
+      "folders": [
+        {
+          "id": "computer_deg",
+          "name": "Computer",
+          "folders": [
+            { "id": "dc1", "name": "Sem-1", "folders": [], "files": [] },
+            { "id": "dc2", "name": "Sem-2", "folders": [], "files": [] },
+            { "id": "dc3", "name": "Sem-3", "folders": [
+            { "id": "osy", "name": "Operating system", "folders": [], 
+            "files": [
+              {
+                "id": "osy_may_2025",
+                "name": "OSY - May 25",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 25.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_dec_2024",
+                "name": "OSY - Dec 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_may_2024",
+                "name": "OSY - May 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_dec_2023",
+                "name": "OSY - Dec 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_may_2023",
+                "name": "OSY - May 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_dec_2022",
+                "name": "OSY - Dec 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_may_2022",
+                "name": "OSY - May 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_dec_2019",
+                "name": "OSY - Dec 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_may_2019",
+                "name": "OSY - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_dec_2018",
+                "name": "OSY - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_may_2018",
+                "name": "OSY - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 18.pdf",
+                "size": "1 MB"
+              }
+            ] },
+            { "id": "dbms", "name": "Database Management", "folders": [], 
+            "files": [
+              {
+                "id": "dbms_may_2025",
+                "name": "DBMS - May 25",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 25.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2024",
+                "name": "DBMS - Dec 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2024",
+                "name": "DBMS - May 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2023",
+                "name": "DBMS - Dec 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2023",
+                "name": "DBMS - May 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2022",
+                "name": "DBMS - Dec 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2022",
+                "name": "DBMS - May 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2019",
+                "name": "DBMS - Dec 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2019",
+                "name": "DBMS - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2018",
+                "name": "DBMS - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2018", 
+                "name": "DBMS - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2017",
+                "name": "DBMS - Dec 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 17.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2017",
+                "name": "DBMS - May 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 17.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2016",
+                "name": "DBMS - Dec 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 16.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2016",
+                "name": "DBMS - May 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 16.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2015",
+                "name": "DBMS - Dec 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 15.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2015",
+                "name": "DBMS - May 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 15.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2014",
+                "name": "DBMS - Dec 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-Dec 14.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2014",
+                "name": "DBMS - May 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Management-Question Paper-May 14.pdf",
+                "size": "1 MB"
+              }
+            ] }  ,
+            { "id": "tcs", "name": "Theoretical Computation", "folders": [], 
+            "files": [
+              {
+                "id": "tcs_may_2019",
+                "name": "TCS - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_dec_2018",
+                "name": "TCS - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_may_2018",
+                "name": "TCS - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_dec_2017",
+                "name": "TCS - Dec 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 17.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_may_2017",
+                "name": "TCS - May 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 17.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_dec_2016",
+                "name": "TCS - Dec 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 16.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_may_2016",
+                "name": "TCS - May 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 16.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_dec_2015",
+                "name": "TCS - Dec 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 15.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_may_2015",
+                "name": "TCS - May 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 15.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_dec_2014",
+                "name": "TCS - Dec 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 14.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "tcs_may_2014",
+                "name": "TCS - May 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 14.pdf",
+                "size": "1 MB"
+              }
+
+              
+            ] },
+            
+            { "id": "aoa", "name": "Analysis of Algorithm", "folders": [], 
             "files": [
 
               {
@@ -43,4 +1247,82 @@
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 22.pdf",
                 "size": "1 MB"
               }
+            ] },
+
+            { "id": "mic", "name": "Microprocessor", "folders": [], 
+            "files": [
+
+              {
+                "id": "mic_may_2025",
+                "name": "MIC - May 25",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 25.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_may_2024",
+                "name": "MIC - May 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_dec_2023",
+                "name": "MIC - Dec 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-Dec 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_may_2023",
+                "name": "MIC - May 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_dec_2022",
+                "name": "MIC - Dec 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-Dec 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_may_2022",
+                "name": "MIC - May 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 22.pdf",
+                "size": "1 MB"
+              }
             ] }
+
+            ], "files": [] },
+            { "id": "dc4", "name": "Sem-4", "folders": [], "files": [] },
+            { "id": "dc5", "name": "Sem-5", "folders": [], "files": [] },
+            { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
+            { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
+            { "id": "dc8", "name": "Sem-8", "folders": [], "files": [] }
+          ],
+          "files": []
+        }
+      ]
+    },
+
+    {
+      "id": "diploma1",
+      "name": "Diploma1",
+      "description": "Engineering Branches",
+      "icon": "engineering",
+      "folders": [
+        {
+          "id": "computer",
+          "name": "Computer",
+          "folders": [
+            { "id": "c1", "name": "Sem-1", "folders": [], "files": [] },
+            { "id": "c2", "name": "Sem-2", "folders": [], "files": [] },
+            { "id": "c3", "name": "Sem-3", "folders": [], "files": [] },
+            { "id": "c4", "name": "Sem-4", "folders": [], "files": [] },
+            { "id": "c5", "name": "Sem-5", "folders": [], "files": [] },
+            { "id": "c6", "name": "Sem-6", "folders": [], "files": [] }
+          ],
+          "files": []
+        }
+      ]
+    }
+    
+  ]
+}
