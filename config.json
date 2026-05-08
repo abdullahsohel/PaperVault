@@ -943,7 +943,8 @@
           "folders": [
             { "id": "dc1", "name": "Sem-1", "folders": [], "files": [] },
             { "id": "dc2", "name": "Sem-2", "folders": [], "files": [] },
-            { "id": "dc3", "name": "Sem-3", "folders": [
+            { "id": "dc3", "name": "Sem-3", "folders": [], "files": [] },
+            { "id": "dc4", "name": "Sem-4", "folders": [
             { "id": "osy", "name": "Operating system", "folders": [], 
             "files": [
               {
@@ -1445,7 +1446,6 @@
 
 
             ], "files": [] },
-            { "id": "dc4", "name": "Sem-4", "folders": [], "files": [] },
             { "id": "dc5", "name": "Sem-5", "folders": [], "files": [] },
             { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
             { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
