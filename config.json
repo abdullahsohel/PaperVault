@@ -1446,7 +1446,145 @@
 
 
             ], "files": [] },
-            { "id": "dc5", "name": "Sem-5", "folders": [], "files": [] },
+            { "id": "dc5", "name": "Sem-5", 
+            "folders": [
+              { "id": "cn", "name": "Computer Networks", "folders": [], 
+              "files": [
+                {
+                  "id": "cn_may_2025",
+                  "name": "CN - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-May 25.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "cn_dec_2024",
+                  "name": "CN - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-Dec 24.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "cn_may_2024",
+                  "name": "CN - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-May 24.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "cn_dec_2023",
+                  "name": "CN - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-Dec 23.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "cn_may_2023",
+                  "name": "CN - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-May 23.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "cn_dec_2022",
+                  "name": "CN - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-Dec 22.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "cn_may_2022",
+                  "name": "CN - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-May 22.pdf",
+                  "size": "1 MB"
+                }
+              ] },
+              { "id": "se", "name": "Software Engineering", "folders": [], 
+              "files": [
+                {
+                  "id": "se_may_2025",
+                  "name": "SE - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Software Engineering-Question Paper-May 25.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "se_dec_2024",
+                  "name": "SE - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Software Engineering-Question Paper-Dec 24.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "se_may_2024",
+                  "name": "SE - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Software Engineering-Question Paper-May 24.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "se_dec_2023",
+                  "name": "SE - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Software Engineering-Question Paper-Dec 23.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "se_may_2023",
+                  "name": "SE - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Software Engineering-Question Paper-May 23.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "se_dec_2022",
+                  "name": "SE - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Software Engineering-Question Paper-Dec 22.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "se_may_2022",
+                  "name": "SE - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Software Engineering-Question Paper-May 22.pdf",
+                  "size": "1 MB"
+                }
+              ] },
+              { "id": "dwm", "name": "Data Warehousing and Data Mining", "folders": [], 
+              "files": [
+                {
+                  "id": "dwm_may_2025",
+                  "name": "DWM - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Data Warehousing-Question Paper-May 25.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "dwm_dec_2024",
+                  "name": "DWM - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Data Warehousing-Question Paper-Dec 24.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "dwm_may_2024",
+                  "name": "DWM - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Data Warehousing-Question Paper-May 24.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "dwm_dec_2023",
+                  "name": "DWM - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Data Warehousing-Question Paper-Dec 23.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "dwm_may_2023",
+                  "name": "DWM - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Data Warehousing-Question Paper-May 23.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "dwm_dec_2022",
+                  "name": "DWM - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Data Warehousing-Question Paper-Dec 22.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "dwm_may_2022",
+                  "name": "DWM - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Data Warehousing-Question Paper-May 22.pdf",
+                  "size": "1 MB"
+                }
+
+
+            ], "files": [] },
             { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
             { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
             { "id": "dc8", "name": "Sem-8", "folders": [], "files": [] }
