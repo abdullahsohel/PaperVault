@@ -1491,6 +1491,24 @@
                   "name": "CN - May 22",
                   "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-May 22.pdf",
                   "size": "1 MB"
+                },
+                {
+                  "id": "cn_dec_2019",
+                  "name": "CN - Dec 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-Dec 19-cbcgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "cn_may_2019",
+                  "name": "CN - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-May 19-cbcgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "cn_dec_2018",
+                  "name": "CN - Dec 18",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Computer Network-Question Paper-Dec 18-cbcgs.pdf",
+                  "size": "1 MB"
                 }
               ] },
               { "id": "se", "name": "Software Engineering", "folders": [], 
@@ -1583,7 +1601,7 @@
                   "size": "1 MB"
                 }
               ] },
-               { "id": "ip", "name": "Internet Programming", "folders": [], 
+              { "id": "ip", "name": "Internet Programming", "folders": [], 
               "files": [
                 {
                   "id": "ip_may_2025",
@@ -1627,7 +1645,29 @@
                   "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Internet Programming-Question Paper-May 22.pdf",
                   "size": "1 MB"
                 }
+              ] },
+              { "id": "aa", "name": "Advance Algorithm", "folders": [], 
+              "files": [
+                {
+                  "id": "aa_may_2025",
+                  "name": "AA - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Advance Algorithm-Question Paper-May 25.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "aa_dec_2024",
+                  "name": "AA - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Advance Algorithm-Question Paper-Dec 24.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "aa_may_2024",
+                  "name": "AA - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Advance Algorithm-Question Paper-May 24.pdf",
+                  "size": "1 MB"
+                }
               ] }
+
           ]},
             { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
             { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
