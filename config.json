@@ -978,6 +978,8 @@
               }
                 ] },
               
+                { "id": "aoa", "name": "Analysis of Algorithm", "folders": [], 
+                "files": [] },
 
                 { "id": "coa", "name": "Computer Architecture", "folders": [], 
             "files": [
@@ -1054,35 +1056,6 @@
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 14.pdf",
                 "size": "1 MB"
               }
-                ] },
-
-                { "id": "osy", "name": "Operating system", "folders": [], 
-                "files": [
-              {
-                "id": "osy_dec_2019",
-                "name": "OSY - Dec 19",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 19.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_may_2019",
-                "name": "OSY - May 19",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 19.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_dec_2018",
-                "name": "OSY - Dec 18",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 18.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_may_2018",
-                "name": "OSY - May 18",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 18.pdf",
-                "size": "1 MB"
-              }
-
                 ] },
 
                 { "id": "dbms", "name": "Database Management", "folders": [], 
@@ -1163,14 +1136,10 @@
 
                 { "id": "tcs", "name": "Theoretical Computation", "folders": [], 
                 "files": [] },
-                { "id": "aoa", "name": "Analysis of Algorithm", "folders": [], 
-                "files": [] },
-                { "id": "mic", "name": "Microprocessor", "folders": [], 
-                "files": [] },
-                { "id": "coa", "name": "Computer Architecture", "folders": [], 
-                "files": [] },
-                { "id": "cgr", "name": "Computer Graphics", "folders": [], 
+
+                 { "id": "cgr", "name": "Computer Graphics", "folders": [], 
                 "files": [] }
+               
             ], "files": [] },
             { "id": "dc5", "name": "Sem-5", 
             "folders": [
@@ -1284,59 +1253,37 @@
                 "name": "COA - May 18",
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 18.pdf",
                 "size": "1 MB"
-              },
-              {
-                "id": "coa_dec_2017",
-                "name": "COA - Dec 17",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 17.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "coa_may_2017",
-                "name": "COA - May 17",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 17.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "coa_dec_2016",
-                "name": "COA - Dec 16",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 16.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "coa_may_2016",
-                "name": "COA - May 16",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 16.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "coa_dec_2015",
-                "name": "COA - Dec 15",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 15.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "coa_may_2015",
-                "name": "COA - May 15",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 15.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "coa_dec_2014",
-                "name": "COA - Dec 14",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-Dec 14.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "coa_may_2014",
-                "name": "COA - May 14",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 14.pdf",
-                "size": "1 MB"
               }
                 ] },
 
                 { "id": "cgr", "name": "Computer Graphics", "folders": [], 
-                "files": [] },
+                "files": [
+              {
+                "id": "cgr_dec_2019",
+                "name": "CG - Dec 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "cgr_may_2019",
+                "name": "CG - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "cgr_dec_2018",
+                "name": "CG - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "cgr_may_2018",
+                "name": "CG - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 18.pdf",
+                "size": "1 MB"
+              }
+
+                ] },
 
                 { "id": "osy", "name": "Operating system", "folders": [], 
                 "files": [
@@ -1621,157 +1568,7 @@
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 22.pdf",
                 "size": "1 MB"
               }
-            ] },
-
-            { "id": "tcs", "name": "Theoretical Computation", "folders": [], 
-            "files": [
-              {
-                "id": "tcs_may_2019",
-                "name": "TCS - May 19",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 19.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_dec_2018",
-                "name": "TCS - Dec 18",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 18.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_may_2018",
-                "name": "TCS - May 18",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 18.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_dec_2017",
-                "name": "TCS - Dec 17",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 17.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_may_2017",
-                "name": "TCS - May 17",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 17.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_dec_2016",
-                "name": "TCS - Dec 16",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 16.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_may_2016",
-                "name": "TCS - May 16",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 16.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_dec_2015",
-                "name": "TCS - Dec 15",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 15.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_may_2015",
-                "name": "TCS - May 15",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 15.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_dec_2014",
-                "name": "TCS - Dec 14",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-Dec 14.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "tcs_may_2014",
-                "name": "TCS - May 14",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Theoritical Computation-Question Paper-May 14.pdf",
-                "size": "1 MB"
-              }
-
-              
-            ] },
-            
-            { "id": "cgr", "name": "Computer Graphics", "folders": [], 
-            "files": [
-
-              {
-                "id": "cgr_dec_2019",
-                "name": "CG - Dec 19",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 19.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_may_2019",
-                "name": "CG - May 19",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 19.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_dec_2018",
-                "name": "CG - Dec 18",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 18.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_may_2018",
-                "name": "CG - May 18",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 18.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_dec_2017",
-                "name": "CG - Dec 17",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 17.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_may_2017",
-                "name": "CG - May 17",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 17.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_dec_2016",
-                "name": "CG - Dec 16",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 16.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_may_2016",
-                "name": "CG - May 16",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 16.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_dec_2015",
-                "name": "CG - Dec 15",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 15.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_may_2015",
-                "name": "CG - May 15",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 15.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_dec_2014",
-                "name": "CG - Dec 14",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-Dec 14.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "cgr_may_2014",
-                "name": "CG - May 14",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Graphics-Question Paper-May 14.pdf",
-                "size": "1 MB"
-              }
             ] }
-
 
             ], "files": [] },
             { "id": "dc5", "name": "Sem-5", 
