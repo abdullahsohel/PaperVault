@@ -947,6 +947,36 @@
             { "id": "dc3", "name": "Sem-3", "folders": [], "files": [] },
             { "id": "dc4", "name": "Sem-4", 
             "folders": [
+                
+                { "id": "em4", "name": "Engineering Mathematics IV", "folders": [], 
+            "files": [
+
+              {
+                "id": "em4_dec_2019",
+                "name": "EM4 - Dec 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_may_2019",
+                "name": "EM4 - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 19.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_dec_2018",
+                "name": "EM4 - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_may_2023",
+                "name": "EM4 - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 18.pdf",
+                "size": "1 MB"
+              }
+                ] },
+              
                 { "id": "osy", "name": "Operating system", "folders": [], 
                 "files": [
               {
