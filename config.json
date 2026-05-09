@@ -953,27 +953,69 @@
             "files": [
 
               {
-                "id": "am4_dec_2019",
-                "name": "AM4 - Dec 19",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 19.pdf",
-                "size": "1 MB"
-              },
-              {
                 "id": "am4_may_2019",
                 "name": "AM4 - May 19",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 19.pdf",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-May 19.pdf",
                 "size": "1 MB"
               },
               {
                 "id": "am4_dec_2018",
                 "name": "AM4 - Dec 18",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 18.pdf",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-Dec 18.pdf",
                 "size": "1 MB"
               },
               {
                 "id": "am4_may_2018",
                 "name": "AM4 - May 18",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 18.pdf",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-May 18.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "am4_dec_2017",
+                "name": "AM4 - Dec 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-Dec 17.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "am4_may_2017",
+                "name": "AM4 - May 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-May 17.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "am4_dec_2016",
+                "name": "AM4 - Dec 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-Dec 16.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "am4_may_2016",
+                "name": "AM4 - May 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-May 16.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "am4_dec_2015",
+                "name": "AM4 - Dec 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-Dec 15.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "am4_may_2015",
+                "name": "AM4 - May 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-May 15.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "am4_dec_2014",
+                "name": "AM4 - Dec 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-Dec 14.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "am4_may_2014",
+                "name": "AM4 - May 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Applied Mathematics IV-Question Paper-May 14.pdf",
                 "size": "1 MB"
               }
                 ] },
