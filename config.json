@@ -948,89 +948,7 @@
             { "id": "dc4", "name": "Sem-4", 
             "folders": [
                 { "id": "osy", "name": "Operating system", "folders": [], 
-                "files": [] },
-                { "id": "dbms", "name": "Database Management", "folders": [], 
-                "files": [] }  ,
-                { "id": "tcs", "name": "Theoretical Computation", "folders": [], 
-                "files": [] },
-                { "id": "aoa", "name": "Analysis of Algorithm", "folders": [], 
-                "files": [] },
-                { "id": "mic", "name": "Microprocessor", "folders": [], 
-                "files": [] },
-                { "id": "coa", "name": "Computer Architecture", "folders": [], 
-                "files": [] },
-                { "id": "cgr", "name": "Computer Graphics", "folders": [], 
-                "files": [] }
-            ], "files": [] },
-            { "id": "dc5", "name": "Sem-5", 
-            "folders": [
-                { "id": "cn", "name": "Computer Networks", "folders": [], 
-                "files": [] },
-                { "id": "se", "name": "Software Engineering", "folders": [], 
-                "files": [] },
-                { "id": "dwm", "name": "Data Warehousing and Data Mining", "folders": [], 
-                "files": [] },
-                { "id": "ip", "name": "Internet Programming", "folders": [], 
-                "files": [] },
-                { "id": "aa", "name": "Advance Algorithm", "folders": [], 
-                "files": [] }
-
-          ]},
-            { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
-            { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
-            { "id": "dc8", "name": "Sem-8", "folders": [], "files": [] }
-          ],
-            "files": []},
-            {"id":"rev-2019-c-scheme", "name":"Rev-2019 'C' Scheme", 
-            "folders": [
-            { "id": "dc1", "name": "Sem-1", "folders": [], "files": [] },
-            { "id": "dc2", "name": "Sem-2", "folders": [], "files": [] },
-            { "id": "dc3", "name": "Sem-3", "folders": [], "files": [] },
-            { "id": "dc4", "name": "Sem-4", "folders": [
-            { "id": "osy", "name": "Operating system", "folders": [], 
-            "files": [
-              {
-                "id": "osy_may_2025",
-                "name": "OSY - May 25",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 25.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_dec_2024",
-                "name": "OSY - Dec 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_may_2024",
-                "name": "OSY - May 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_dec_2023",
-                "name": "OSY - Dec 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_may_2023",
-                "name": "OSY - May 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_dec_2022",
-                "name": "OSY - Dec 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 22.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "osy_may_2022",
-                "name": "OSY - May 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 22.pdf",
-                "size": "1 MB"
-              },
+                "files": [
               {
                 "id": "osy_dec_2019",
                 "name": "OSY - Dec 19",
@@ -1055,52 +973,12 @@
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 18.pdf",
                 "size": "1 MB"
               }
-            ] },
-            { "id": "dbms", "name": "Database Management", "folders": [], 
-            "files": [
-              {
-                "id": "dbms_may_2025",
-                "name": "DBMS - May 25",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 25.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "dbms_dec_2024",
-                "name": "DBMS - Dec 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-Dec 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "dbms_may_2024",
-                "name": "DBMS - May 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "dbms_dec_2023",
-                "name": "DBMS - Dec 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-Dec 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "dbms_may_2023",
-                "name": "DBMS - May 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "dbms_dec_2022",
-                "name": "DBMS - Dec 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-Dec 22.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "dbms_may_2022",
-                "name": "DBMS - May 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 22.pdf",
-                "size": "1 MB"
-              },
-              {
+
+                ] },
+
+                { "id": "dbms", "name": "Database Management", "folders": [], 
+                "files": [
+                  {
                 "id": "dbms_dec_2019",
                 "name": "DBMS - Dec 19",
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-Dec 19-cbcgs.pdf",
@@ -1172,7 +1050,273 @@
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 14.pdf",
                 "size": "1 MB"
               }
+                ] } ,
+
+                { "id": "tcs", "name": "Theoretical Computation", "folders": [], 
+                "files": [] },
+                { "id": "aoa", "name": "Analysis of Algorithm", "folders": [], 
+                "files": [] },
+                { "id": "mic", "name": "Microprocessor", "folders": [], 
+                "files": [] },
+                { "id": "coa", "name": "Computer Architecture", "folders": [], 
+                "files": [] },
+                { "id": "cgr", "name": "Computer Graphics", "folders": [], 
+                "files": [] }
+            ], "files": [] },
+            { "id": "dc5", "name": "Sem-5", 
+            "folders": [
+                { "id": "cn", "name": "Computer Networks", "folders": [], 
+                "files": [] },
+                { "id": "se", "name": "Software Engineering", "folders": [], 
+                "files": [] },
+                { "id": "dwm", "name": "Data Warehousing and Data Mining", "folders": [], 
+                "files": [] },
+                { "id": "ip", "name": "Internet Programming", "folders": [], 
+                "files": [] },
+                { "id": "aa", "name": "Advance Algorithm", "folders": [], 
+                "files": [] }
+
+          ]},
+            { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
+            { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
+            { "id": "dc8", "name": "Sem-8", "folders": [], "files": [] }
+          ],
+            "files": []},
+            {"id":"rev-2019-c-scheme", "name":"Rev-2019 'C' Scheme", 
+            "folders": [
+            { "id": "dc1", "name": "Sem-1", "folders": [], "files": [] },
+            { "id": "dc2", "name": "Sem-2", "folders": [], "files": [] },
+            { "id": "dc3", "name": "Sem-3", "folders": [], "files": [] },
+            { "id": "dc4", "name": "Sem-4", 
+            "folders": [
+            { "id": "em4", "name": "Engineering Mathematics IV", "folders": [], 
+            "files": [
+
+              {
+                "id": "em4_may_2025",
+                "name": "EM4 - May 25",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 25.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_dec_2024",
+                "name": "EM4 - Dec 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_may_2024",
+                "name": "EM4 - May 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_dec_2023",
+                "name": "EM4 - Dec 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_may_2023",
+                "name": "EM4 - May 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_dec_2022",
+                "name": "EM4 - Dec 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "em4_may_2022",
+                "name": "EM4 - May 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 22.pdf",
+                "size": "1 MB"
+              }
+            ] },
+
+            { "id": "aoa", "name": "Analysis of Algorithm", "folders": [], 
+            "files": [
+
+              {
+                "id": "aoa_may_2025",
+                "name": "AOA - May 25",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 25.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "aoa_dec_2024",
+                "name": "AOA - Dec 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-Dec 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "aoa_may_2024",
+                "name": "AOA - May 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "aoa_dec_2023",
+                "name": "AOA - Dec 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-Dec 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "aoa_may_2023",
+                "name": "AOA - May 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "aoa_dec_2022",
+                "name": "AOA - Dec 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-Dec 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "aoa_may_2022",
+                "name": "AOA - May 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 22.pdf",
+                "size": "1 MB"
+              }
+            ] },
+
+            { "id": "dbms", "name": "Database Management", "folders": [], 
+            "files": [
+              {
+                "id": "dbms_may_2025",
+                "name": "DBMS - May 25",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 25.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2024",
+                "name": "DBMS - Dec 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-Dec 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2024",
+                "name": "DBMS - May 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2023",
+                "name": "DBMS - Dec 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-Dec 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2023",
+                "name": "DBMS - May 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_dec_2022",
+                "name": "DBMS - Dec 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-Dec 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "dbms_may_2022",
+                "name": "DBMS - May 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-May 22.pdf",
+                "size": "1 MB"
+              }
+              
             ] }  ,
+
+            { "id": "osy", "name": "Operating system", "folders": [], 
+            "files": [
+              {
+                "id": "osy_may_2025",
+                "name": "OSY - May 25",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 25.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_dec_2024",
+                "name": "OSY - Dec 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_may_2024",
+                "name": "OSY - May 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_dec_2023",
+                "name": "OSY - Dec 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_may_2023",
+                "name": "OSY - May 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_dec_2022",
+                "name": "OSY - Dec 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-Dec 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "osy_may_2022",
+                "name": "OSY - May 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Operating System-Question Paper-May 22.pdf",
+                "size": "1 MB"
+              }
+            ] },
+
+             { "id": "mic", "name": "Microprocessor", "folders": [], 
+            "files": [
+
+              {
+                "id": "mic_may_2025",
+                "name": "MIC - May 25",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 25.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_may_2024",
+                "name": "MIC - May 24",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 24.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_dec_2023",
+                "name": "MIC - Dec 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-Dec 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_may_2023",
+                "name": "MIC - May 23",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 23.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_dec_2022",
+                "name": "MIC - Dec 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-Dec 22.pdf",
+                "size": "1 MB"
+              },
+              {
+                "id": "mic_may_2022",
+                "name": "MIC - May 22",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 22.pdf",
+                "size": "1 MB"
+              }
+            ] },
+
             { "id": "tcs", "name": "Theoretical Computation", "folders": [], 
             "files": [
               {
@@ -1244,140 +1388,7 @@
 
               
             ] },
-            { "id": "em4", "name": "Engineering Mathematics IV", "folders": [], 
-            "files": [
-
-              {
-                "id": "em4_may_2025",
-                "name": "EM4 - May 25",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 25.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "em4_dec_2024",
-                "name": "EM4 - Dec 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "em4_may_2024",
-                "name": "EM4 - May 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "em4_dec_2023",
-                "name": "EM4 - Dec 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "em4_may_2023",
-                "name": "EM4 - May 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "em4_dec_2022",
-                "name": "EM4 - Dec 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-Dec 22.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "em4_may_2022",
-                "name": "EM4 - May 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Engineering Mathematics IV-Question Paper-May 22.pdf",
-                "size": "1 MB"
-              }
-            ] },
-            { "id": "aoa", "name": "Analysis of Algorithm", "folders": [], 
-            "files": [
-
-              {
-                "id": "aoa_may_2025",
-                "name": "AOA - May 25",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 25.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "aoa_dec_2024",
-                "name": "AOA - Dec 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-Dec 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "aoa_may_2024",
-                "name": "AOA - May 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "aoa_dec_2023",
-                "name": "AOA - Dec 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-Dec 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "aoa_may_2023",
-                "name": "AOA - May 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "aoa_dec_2022",
-                "name": "AOA - Dec 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-Dec 22.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "aoa_may_2022",
-                "name": "AOA - May 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Analysis Of Algorithm-Question Paper-May 22.pdf",
-                "size": "1 MB"
-              }
-            ] },
-
-            { "id": "mic", "name": "Microprocessor", "folders": [], 
-            "files": [
-
-              {
-                "id": "mic_may_2025",
-                "name": "MIC - May 25",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 25.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "mic_may_2024",
-                "name": "MIC - May 24",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 24.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "mic_dec_2023",
-                "name": "MIC - Dec 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-Dec 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "mic_may_2023",
-                "name": "MIC - May 23",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 23.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "mic_dec_2022",
-                "name": "MIC - Dec 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-Dec 22.pdf",
-                "size": "1 MB"
-              },
-              {
-                "id": "mic_may_2022",
-                "name": "MIC - May 22",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Microprocessor-Question Paper-May 22.pdf",
-                "size": "1 MB"
-              }
-            ] },
-
+            
             { "id": "coa", "name": "Computer Architecture", "folders": [], 
             "files": [
 
