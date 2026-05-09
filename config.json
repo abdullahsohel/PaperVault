@@ -1683,6 +1683,29 @@
                   "size": "1 MB"
                 }
 
+                ] },
+
+                { "id": "aos", "name": "Advanced Operating System", "folders": [], 
+                "files": [
+                {
+                  "id": "aos_dec_2019",
+                  "name": "AOS - Dec 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Advanced Operating System-Question Paper-Dec 19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "aos_may_2019",
+                  "name": "AOS - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Advanced Operating System-Question Paper-May 19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "aos_dec_2018",
+                  "name": "AOS - Dec 18",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/BE-Advanced Operating System-Question Paper-Dec 18.pdf",
+                  "size": "1 MB"
+                }
+
                 ] }
 
           ]},
