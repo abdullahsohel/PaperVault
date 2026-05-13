@@ -1161,7 +1161,8 @@
                 "name": "DBMS - Dec 19",
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Database Managment-Question Paper-Dec 19-cbcgs.pdf",
                 "size": "1 MB",
-                "isSolved": true
+                "isSolved": true,
+                "shareEnabled": true
               },
               {
                 "id": "dbms_may_2019",
