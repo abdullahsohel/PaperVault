@@ -8,21 +8,12 @@
       "description": "Standards 1-10",
       "icon": "school",
       "folders": [
-        { "id": "std1", "name": "Std-1", "folders": [], "files": [] },
-        { "id": "std2", "name": "Std-2", "folders": [], "files": [] },
-        { "id": "std3", "name": "Std-3", "folders": [], "files": [] },
-        { "id": "std4", "name": "Std-4", "folders": [], "files": [] },
-        { "id": "std5", "name": "Std-5", "folders": [], "files": [] },
-        { "id": "std6", "name": "Std-6", "folders": [], "files": [] },
-        { "id": "std7", "name": "Std-7", "folders": [], "files": [] },
-        { "id": "std8", "name": "Std-8", "folders": [], "files": [] },
-        { "id": "std9", "name": "Std-9", "folders": [], "files": [] },
-        {
-          "id": "std10",
+        { "id": "board", "name": "Maharashtra Board", "folders": [
+          { "id": "eng_medium", "name": "English", "folders": [
+        {"id": "std10",
           "name": "Std-10",
           "folders": [
-            {
-              "id": "maths1",
+            {"id": "maths1",
               "name": "Mathematics 1",
               "folders": [],
               "files": [
@@ -88,8 +79,7 @@
                 }
               ]
             },
-            {
-              "id": "maths2",
+            {"id": "maths2",
               "name": "Mathematics 2",
               "folders": [],
               "files": [
@@ -149,8 +139,7 @@
                 }
               ]
             },
-            {
-              "id": "science1",
+            {"id": "science1",
               "name": "Science 1",
               "folders": [],
               "files": [
@@ -217,8 +206,7 @@
               
               ]
             },
-            {
-              "id": "science2",
+            {"id": "science2",
               "name": "Science 2",
               "folders": [],
               "files": [
@@ -279,8 +267,7 @@
                 
               ]
             },
-            {
-              "id": "english",
+            {"id": "english",
               "name": "English",
               "folders": [],
               "files": [
@@ -292,8 +279,7 @@
                 }
               ]
             },
-            {
-              "id": "history_geography",
+            {"id": "history_geography",
               "name": "History & Geography",
               "folders": [],
               "files": [
@@ -305,8 +291,7 @@
                 }
               ]
             },
-            {
-              "id": "hindi",
+            {"id": "hindi",
               "name": "Hindi",
               "folders": [],
               "files": [
@@ -318,8 +303,7 @@
                 }
               ]
             },
-            {
-              "id": "marathi",
+            {"id": "marathi",
               "name": "Marathi",
               "folders": [],
               "files": [
@@ -334,6 +318,9 @@
           ],
           "files": []
         }
+          ], "files": [] }
+        ], "files": [] }
+        
       ]
     },
 
