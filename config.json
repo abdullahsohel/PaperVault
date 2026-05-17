@@ -1501,14 +1501,161 @@
                 }
                 ] },
                 
-                { "id": "dwm", "name": "Data Warehousing and Data Mining", "folders": [], 
-                "files": [] },
+                { "id": "SAOOAD", "name": "TE-Structured And Object Oriented Analysis", "folders": [], 
+                "files": [
+                  {
+                "id": "SAOOAD_may_2019",
+                "name": "SAOOAD - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-May 19-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_Dec_2018",
+                "name": "SAOOAD - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-Dec 18-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_may_2018",
+                "name": "SAOOAD - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-May 18-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_dec_2017",
+                "name": "SAOOAD - Dec 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-Dec 17-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_may_2017",
+                "name": "SAOOAD - May 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-May 17-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_dec_2016",
+                "name": "SAOOAD - Dec 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-Dec 16-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_may_2016",
+                "name": "SAOOAD - May 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-May 16-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_dec_2015",
+                "name": "SAOOAD - Dec 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-Dec 15-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_may_2015",
+                "name": "SAOOAD - May 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-May 15-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "SAOOAD_dec_2014",
+                "name": "SAOOAD - Dec 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-Dec 14-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false   
+                  },
+                  {
+                "id": "SAOOAD_may_2014",
+                "name": "SAOOAD - May 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Structured And Object Oriented Analysis-Question Paper-May 14-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  }
                 
-                { "id": "ip", "name": "Internet Programming", "folders": [], 
-                "files": [] },
+                ] },
                 
-                { "id": "aa", "name": "Advance Algorithm", "folders": [], 
-                "files": [] }
+                { "id": "cn", "name": "Computer Networks", "folders": [], 
+                "files": [
+                  {
+                "id": "CN_may_2019",
+                "name": "CN - May 19",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-May 19-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false    
+                  },
+                  {
+                "id": "CN_dec_2018",
+                "name": "CN - Dec 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-Dec 18-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  },
+                  {
+                "id": "CN_may_2018",
+                "name": "CN - May 18",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-May 18-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  },
+                  {
+                "id": "CN_dec_2017",
+                "name": "CN - Dec 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-Dec 17-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  },
+                  {
+                "id": "CN_may_2017",
+                "name": "CN - May 17",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-May 17-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  },
+                  {
+                "id": "CN_dec_2016",
+                "name": "CN - Dec 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-Dec 16-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  },
+                  {
+                "id": "CN_may_2016",
+                "name": "CN - May 16",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-May 16-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  },
+                  {
+                "id": "CN_dec_2015",
+                "name": "CN - Dec 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-Dec 15-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  },
+                  {
+                "id": "CN_may_2015",
+                "name": "CN - May 15",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-May 15-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  },
+                  {
+                "id": "CN_dec_2014",
+                "name": "CN - Dec 14",
+                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 5/TE-Computer Networks-Question Paper-Dec 14-cbsgs.pdf",
+                "isSolved": false,
+                "shareEnabled": false
+                  }
+                ] }
 
           ]},
             { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
@@ -1610,6 +1757,7 @@
                 "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 4/BE-Computer Architeture-Question Paper-May 18.pdf",
                 "size": "1 MB"
               }
+              
                 ] },
 
                 { "id": "cgr", "name": "Computer Graphics", "folders": [], 
