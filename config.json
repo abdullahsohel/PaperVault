@@ -1501,7 +1501,7 @@
                 }
                 ] },
                 
-                { "id": "SAOOAD", "name": "TE-Structured And Object Oriented Analysis", "folders": [], 
+                { "id": "saooad", "name": "Structured And Object Oriented Analysis", "folders": [], 
                 "files": [
                   {
                 "id": "SAOOAD_may_2019",
@@ -2446,7 +2446,97 @@
               ] }
 
           ]},
-            { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
+            { "id": "dc6", "name": "Sem-6", 
+            "folders": [
+              {"id": "spc", "name": "System Programming & Compiler Construction", "folders": [], 
+              "files": [
+                {
+                  "id": "spc_may_2025",
+                  "name": "SPC - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-May 25-Rev19.pdf",
+                  "size": "1 MB"
+                }, 
+                {
+                  "id": "spc_dec_2024",
+                  "name": "SPC - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-Dec 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spc_dec_2023",
+                  "name": "SPC - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-Dec 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spc_may_2023",
+                  "name": "SPC - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-May 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spc_dec_2022",
+                  "name": "SPC - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-Dec 22-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spc_may_2022",
+                  "name": "SPC - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-May 22-Rev19.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+            {"id": "css", "name": "Cryptography & System Security", "folders": [], 
+              "files": [
+                {
+                  "id": "css_may_2025",
+                  "name": "CSS - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-May 25-Rev19.pdf",
+                  "size": "1 MB"
+                }, 
+                {
+                  "id": "css_dec_2024",
+                  "name": "CSS - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-Dec 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "css_may_2024",
+                  "name": "CSS - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-May 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "css_dec_2023",
+                  "name": "CSS - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-Dec 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "css_may_2023",
+                  "name": "CSS - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-May 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "css_dec_2022",
+                  "name": "CSS - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-Dec 22-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "css_may_2022",
+                  "name": "CSS - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-May 22-Rev19.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            }
+            
+            ], "files": [] },
+
             { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
             { "id": "dc8", "name": "Sem-8", "folders": [], "files": [] }
           ], 
