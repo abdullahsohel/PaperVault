@@ -1658,7 +1658,62 @@
                 ] }
 
           ]},
-            { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
+            { "id": "dc6", "name": "Sem-6", 
+            "folders": [
+               {"id": "spcc", "name": "System Programming & Compiler Construction", "folders": [], 
+              "files": [
+               
+                {
+                  "id": "spcc_may_2019",
+                  "name": "SPCC - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-May 19-cbsgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spcc_dec_2018",
+                  "name": "SPCC - Dec 18",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-Dec 18-cbsgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spcc_may_2018",
+                  "name": "SPCC - May 18",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-May 18-cbsgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spcc_dec_2017",
+                  "name": "SPCC - Dec 17",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-Dec 17-cbsgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spcc_may_2017",
+                  "name": "SPCC - May 17",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-May 17-cbsgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spcc_dec_2016",
+                  "name": "SPCC - Dec 16",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-Dec 16-cbsgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spcc_may_2016",
+                  "name": "SPCC - May 16",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-May 16-cbsgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spcc_dec_2015",
+                  "name": "SPCC - Dec 15",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-Dec 15-cbsgs.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            }
+            ], "files": [] },
             { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
             { "id": "dc8", "name": "Sem-8", "folders": [], "files": [] }
           ],
@@ -1978,52 +2033,7 @@
           ]},
             { "id": "dc6", "name": "Sem-6", 
             "folders": [
-              {"id": "ai", "name": "Artificial Intelligence", "folders": [], 
-              "files": [
-                {
-                  "id": "ai_may_2025",
-                  "name": "AI - May 25",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 25-Rev19.pdf",
-                  "size": "1 MB"
-                }, 
-                {
-                  "id": "ai_dec_2024",
-                  "name": "AI - Dec 24",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 24-Rev19.pdf",
-                  "size": "1 MB"
-                },
-                {
-                  "id": "ai_may_2024",
-                  "name": "AI - May 24",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 24-Rev19.pdf",
-                  "size": "1 MB"
-                },
-                {
-                  "id": "ai_dec_2023",
-                  "name": "AI - Dec 23",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 23-Rev19.pdf",
-                  "size": "1 MB"
-                },
-                {
-                  "id": "ai_may_2023",
-                  "name": "AI - May 23",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 23-Rev19.pdf",
-                  "size": "1 MB"
-                },
-                {
-                  "id": "ai_dec_2022",
-                  "name": "AI - Dec 22",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 22-Rev19.pdf",
-                  "size": "1 MB"
-                },
-                {
-                  "id": "ai_may_2022",
-                  "name": "AI - May 22",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 22-Rev19.pdf",
-                  "size": "1 MB"
-                }
-              ] 
-            },
+            
             {"id": "se", "name": "Software Engineering", "folders": [], 
               "files": [
                
@@ -2034,9 +2044,9 @@
                   "size": "1 MB"
                 },
                 {
-                  "id": "se_may_2022",
-                  "name": "SE - May 22",
-                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Software Engineering-Question Paper-May 22-cbcgs.pdf",
+                  "id": "se_may_2019",
+                  "name": "SE - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Software Engineering-Question Paper-May 19-cbcgs.pdf",
                   "size": "1 MB"
                 }
               ] 
