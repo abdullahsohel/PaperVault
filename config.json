@@ -2023,6 +2023,108 @@
                   "size": "1 MB"
                 }
               ] 
+            },
+            {"id": "se", "name": "Software Engineering", "folders": [], 
+              "files": [
+               
+                {
+                  "id": "se_dec_2019",
+                  "name": "SE - Dec 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Software Engineering-Question Paper-Dec 19-cbcgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "se_may_2022",
+                  "name": "SE - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Software Engineering-Question Paper-May 22-cbcgs.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+             {"id": "spcc", "name": "System Programming & Compiler Construction", "folders": [], 
+              "files": [
+               
+                {
+                  "id": "spcc_dec_2019",
+                  "name": "SPCC - Dec 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-Dec 19-cbcgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "spcc_may_2019",
+                  "name": "SPCC - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-System Programming Compiler Construction-Question Paper-May 19-cbcgs.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+            {"id": "dwm", "name": "Data Warehousing & Mining", "folders": [], 
+              "files": [
+               
+                {
+                  "id": "dwm_dec_2019",
+                  "name": "DWM - Dec 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Data Warehousing-Question Paper-Dec 19-cbcgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "dwm_may_2019",
+                  "name": "DWM - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Data Warehousing-Question Paper-May 19-cbcgs.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+             {"id": "css", "name": "Cryptography & System Security", "folders": [], 
+              "files": [
+               
+                {
+                  "id": "css_dec_2019",
+                  "name": "CSS - Dec 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-Dec 19-cbcgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "css_may_2019",
+                  "name": "CSS - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Cryptography System Security-Question Paper-May 19-cbcgs.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+            {"id": "ml", "name": "Machine Learning", "folders": [], 
+              "files": [
+               
+                {
+                  "id": "ml_dec_2019",
+                  "name": "ML - Dec 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Machine Learning-Question Paper-Dec 19-cbcgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ml_may_2019",
+                  "name": "ML - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Machine Learning-Question Paper-May 19-cbcgs.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+            {"id": "ads", "name": "Advance Database System", "folders": [], 
+              "files": [
+               
+                {
+                  "id": "ads_dec_2019",
+                  "name": "ADS - Dec 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Advance Database System-Question Paper-Dec 19-cbcgs.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ads_may_2019",
+                  "name": "ADS - May 19",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Advance Database System-Question Paper-May 19-cbcgs.pdf",
+                  "size": "1 MB"
+                }
+              ] 
             }
 
             ], "files": [] },
