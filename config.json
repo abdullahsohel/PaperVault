@@ -2533,6 +2533,98 @@
                   "size": "1 MB"
                 }
               ] 
+            },
+            {"id": "mbc", "name": "Mobile Computing", "folders": [], 
+              "files": [
+                {
+                  "id": "mbc_may_2025",
+                  "name": "MBC - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Mobile Computing-Question Paper-May 25-Rev19.pdf",
+                  "size": "1 MB"
+                }, 
+                {
+                  "id": "mbc_dec_2024",
+                  "name": "MBC - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Mobile Computing-Question Paper-Dec 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "mbc_may_2024",
+                  "name": "MBC - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Mobile Computing-Question Paper-May 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "mbc_dec_2023",
+                  "name": "MBC - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Mobile Computing-Question Paper-Dec 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "mbc_may_2023",
+                  "name": "MBC - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Mobile Computing-Question Paper-May 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "mbc_dec_2022",
+                  "name": "MBC - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Mobile Computing-Question Paper-Dec 22-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "mbc_may_2022",
+                  "name": "MBC - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Mobile Computing-Question Paper-May 22-Rev19.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+            {"id": "ai", "name": "Artificial Intelligence", "folders": [], 
+              "files": [
+                {
+                  "id": "ai_may_2025",
+                  "name": "AI - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 25-Rev19.pdf",
+                  "size": "1 MB"
+                }, 
+                {
+                  "id": "ai_dec_2024",
+                  "name": "AI - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_may_2024",
+                  "name": "AI - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_dec_2023",
+                  "name": "AI - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_may_2023",
+                  "name": "AI - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_dec_2022",
+                  "name": "AI - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 22-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_may_2022",
+                  "name": "AI - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 22-Rev19.pdf",
+                  "size": "1 MB"
+                }
+              ] 
             }
             
             ], "files": [] },
