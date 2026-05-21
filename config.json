@@ -1976,7 +1976,56 @@
                 ] }
 
           ]},
-            { "id": "dc6", "name": "Sem-6", "folders": [], "files": [] },
+            { "id": "dc6", "name": "Sem-6", 
+            "folders": [
+              {"id": "ai", "name": "Artificial Intelligence", "folders": [], 
+              "files": [
+                {
+                  "id": "ai_may_2025",
+                  "name": "AI - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 25-Rev19.pdf",
+                  "size": "1 MB"
+                }, 
+                {
+                  "id": "ai_dec_2024",
+                  "name": "AI - Dec 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_may_2024",
+                  "name": "AI - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_dec_2023",
+                  "name": "AI - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_may_2023",
+                  "name": "AI - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_dec_2022",
+                  "name": "AI - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-Dec 22-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "ai_may_2022",
+                  "name": "AI - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 22-Rev19.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            }
+
+            ], "files": [] },
             { "id": "dc7", "name": "Sem-7", "folders": [], "files": [] },
             { "id": "dc8", "name": "Sem-8", "folders": [], "files": [] }
           ],
@@ -2622,6 +2671,75 @@
                   "id": "ai_may_2022",
                   "name": "AI - May 22",
                   "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Artificial Intelligence-Question Paper-May 22-Rev19.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+            {"id": "iot", "name": "Internet of Things", "folders": [], 
+              "files": [
+                {
+                  "id": "iot_may_2025",
+                  "name": "IoT - May 25",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Internet of Things-Question Paper-May 25-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "iot_may_2024",
+                  "name": "IoT - May 24",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Internet of Things-Question Paper-May 24-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "iot_dec_2023",
+                  "name": "IoT - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Internet of Things-Question Paper-Dec 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "iot_may_2023",
+                  "name": "IoT - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Internet of Things-Question Paper-May 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "iot_dec_2022",
+                  "name": "IoT - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Internet of Things-Question Paper-Dec 22-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "iot_may_2022",
+                  "name": "IoT - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Internet of Things-Question Paper-May 22-Rev19.pdf",
+                  "size": "1 MB"
+                }
+              ] 
+            },
+            {"id": "qa", "name": "Quantitative Analysis", "folders": [], 
+              "files": [
+                
+                {
+                  "id": "qa_dec_2023",
+                  "name": "QA - Dec 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Quantitative Analysis-Question Paper-Dec 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "qa_may_2023",
+                  "name": "QA - May 23",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Quantitative Analysis-Question Paper-May 23-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "qa_dec_2022",
+                  "name": "QA - Dec 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Quantitative Analysis-Question Paper-Dec 22-Rev19.pdf",
+                  "size": "1 MB"
+                },
+                {
+                  "id": "qa_may_2022",
+                  "name": "QA - May 22",
+                  "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Degree/Computer/Sem 6/BE-Quantitative Analysis-Question Paper-May 22-Rev19.pdf",
                   "size": "1 MB"
                 }
               ] 
