@@ -61,260 +61,305 @@
       ]
     },
     {
-       "id": "Junior_college_handwritten_notes",
+      "id": "Junior_college_handwritten_notes",
       "name": "Junior College",
       "description": "Subject wise handwritten notes",
       "icon": "auto_stories",
-       "folders": [
+      "folders": [
         {
           "id": "science",
           "name": "Science",
-             "folders": [
-        {
-          "id": "sci11",
-          "name": "Std-11",
           "folders": [
-            { "id": "phy11", "name": "Physics", "folders": [], "files": [] },
-            { "id": "chem11", "name": "Chemistry", "folders": [], "files": [] },
-            { "id": "math11", "name": "Mathematics", "folders": [], "files": [] },
-            { "id": "bio11", "name": "Biology", "folders": [], "files": [] }
+            {
+              "id": "sci11",
+              "name": "Std-11",
+              "folders": [
+                {
+                  "id": "phy11",
+                  "name": "Physics",
+                  "folders": [],
+                  "files": []
+                },
+                {
+                  "id": "chem11",
+                  "name": "Chemistry",
+                  "folders": [],
+                  "files": []
+                },
+                {
+                  "id": "math11",
+                  "name": "Mathematics",
+                  "folders": [],
+                  "files": []
+                },
+                {
+                  "id": "bio11",
+                  "name": "Biology",
+                  "folders": [],
+                  "files": []
+                }
+              ],
+              "files": []
+            },
+            {
+              "id": "sci12",
+              "name": "Std-12",
+              "folders": [
+                {
+                  "id": "phy12",
+                  "name": "Physics",
+                  "folders": [],
+                  "files": [
+                    {
+                      "id": "phy12_ch1",
+                      "name": "Rotational Motion",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Rotational Motion - SYJC.pdf",
+                      "size": "7.5 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch2",
+                      "name": "Mechanical properties of Fluids",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Mechanical properties of Fluids - SYJC.pdf",
+                      "size": "10 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch3",
+                      "name": "Kinetic Theory of gases",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Kinetic Theory of gases - SYJC.pdf",
+                      "size": "13.2 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch4",
+                      "name": "Thermodynamics",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Thermodynamics - SYJC.pdf",
+                      "size": "5.8 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch5",
+                      "name": "Oscillation",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Oscillation - SYJC notes.pdf",
+                      "size": "9.8 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch6",
+                      "name": "Superposition of waves",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Superposition of waves- SYJC (Updated).pdf",
+                      "size": "14.7 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch7",
+                      "name": "Wave optics",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Wave optics - SYJC.pdf",
+                      "size": "8.2 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch8",
+                      "name": "Electrostatics",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Electrostatics- SYJC.pdf",
+                      "size": "-- MB",
+                      "isNew": false,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch9",
+                      "name": "Current Electricity",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Current Electricity (SYJC).pdf",
+                      "size": "4.9 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch10",
+                      "name": "Magnetic fields due to electric current",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Magnetic fields due to electric current- SYJC.pdf",
+                      "size": "-- MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch11",
+                      "name": "Magnetic Materials",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Magnetic Materials - SYJC.pdf",
+                      "size": "5.5 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch12",
+                      "name": "Electromagnetic induction",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Electromagnetic induction (SYJC).pdf",
+                      "size": "7.5 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch13",
+                      "name": "AC circuits",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/AC circuits - SYJC Notes.pdf",
+                      "size": "12.4 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch14",
+                      "name": "Dual Nature of Radiation & Matter",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Dual Nature of Radiation & Matter (SYJC).pdf",
+                      "size": "4.7 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch15",
+                      "name": "Structure of Atom and Nuclei",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Structure of Atom and Nuclei (SYJC).pdf",
+                      "size": "-- MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    },
+                    {
+                      "id": "phy12_ch16",
+                      "name": "Semiconductors",
+                      "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Semiconductors - SYJC.pdf",
+                      "size": "4.7 MB",
+                      "isNew": true,
+                      "newTagVersion": 1,
+                      "provider": {
+                        "name": "ARK Notes",
+                        "owner": "Abdul Rehman Khan",
+                        "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "chem12",
+                  "name": "Chemistry",
+                  "folders": [],
+                  "files": []
+                },
+                {
+                  "id": "math12",
+                  "name": "Mathematics",
+                  "folders": [],
+                  "files": []
+                },
+                {
+                  "id": "bio12",
+                  "name": "Biology",
+                  "folders": [],
+                  "files": []
+                }
+              ],
+              "files": []
+            }
           ],
-          "files": []
-        },
-        {
-          "id": "sci12",
-          "name": "Std-12",
-          "folders": [
-            { 
-            "id": "phy12", 
-            "name": "Physics", 
-            "folders": [], 
-            "files": [
-        {  
-                "id": "phy12_ch1",
-                "name": "Rotational Motion",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Rotational Motion - SYJC.pdf",
-                "size": "7.5 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch2",
-                "name": "Mechanical properties of Fluids",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Mechanical properties of Fluids - SYJC.pdf",
-                "size": "10 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch3",
-                "name": "Kinetic Theory of gases",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Kinetic Theory of gases - SYJC.pdf",
-                "size": "13.2 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch4",
-                "name": "Thermodynamics",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Thermodynamics - SYJC.pdf",
-                "size": "5.8 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch5",
-                "name": "Oscillation",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Oscillation - SYJC notes.pdf",
-                "size": "9.8 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch6",
-                "name": "Superposition of waves",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Superposition of waves- SYJC (Updated).pdf",
-                "size": "14.7 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch7",
-                "name": "Wave optics",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Wave optics - SYJC.pdf",
-                "size": "8.2 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch8",
-                "name": "Electrostatics",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Electrostatics- SYJC.pdf",
-                "size": "-- MB",
-                  "isNew": false,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch9",
-                "name": "Current Electricity",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Current Electricity (SYJC).pdf",
-                "size": "4.9 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch10",
-                "name": "Magnetic fields due to electric current",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Magnetic fields due to electric current- SYJC.pdf",
-                "size": "-- MB",
-                  "isNew": false,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch11",
-                "name": "Magnetic Materials",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Magnetic Materials - SYJC.pdf",
-                "size": "5.5 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch12",
-                "name": "Electromagnetic induction",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Electromagnetic induction (SYJC).pdf",
-                "size": "7.5 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch13",
-                "name": "AC circuits",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/AC circuits - SYJC Notes.pdf",
-                "size": "12.4 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch14",
-                "name": "Dual Nature of Radiation & Matter",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Dual Nature of Radiation & Matter (SYJC).pdf",
-                "size": "4.7 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch15",
-                "name": "Structure of Atom and Nuclei",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Structure of Atom and Nuclei (SYJC).pdf",
-                "size": "-- MB",
-                  "isNew": false,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        },
-        {  
-                "id": "phy12_ch16",
-                "name": "Semiconductors",
-                "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/Junior-College/Science/physics/Semiconductors - SYJC.pdf",
-                "size": "4.7 MB",
-                  "isNew": true,
-                  "newTagVersion": 1,
-                  "provider": {
-                    "name": "ARK Notes",
-                    "owner": "Abdul Rehman Khan",
-                    "description": "MBBS Student\n(Sir J.J. groups  of hospital Mumbai),3rd Year.\nI have a strong grasp of the subjects. \nI am passionate about sharing my knowledge and helping fellow students excel in their studies."
-                }
-        }
-    ] 
-        },
-            { "id": "chem12", "name": "Chemistry", "folders": [], "files": [] },
-            { "id": "math12", "name": "Mathematics", "folders": [], "files": [] },
-            { "id": "bio12", "name": "Biology", "folders": [], "files": [] }
-          ],
-          "files": []
-        }
-      ],
           "files": []
         },
         {
           "id": "commerce",
           "name": "Commerce",
           "folders": [
-            { "id": "com11", "name": "Std-11", "folders": [], "files": [] },
-            { "id": "com12", "name": "Std-12", "folders": [], "files": [] }
+            {
+              "id": "com11",
+              "name": "Std-11",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "com12",
+              "name": "Std-12",
+              "folders": [],
+              "files": []
+            }
           ],
           "files": []
         },
@@ -322,10 +367,371 @@
           "id": "arts",
           "name": "Arts",
           "folders": [
-            { "id": "arts11", "name": "Std-11", "folders": [], "files": [] },
-            { "id": "arts12", "name": "Std-12", "folders": [], "files": [] }
+            {
+              "id": "arts11",
+              "name": "Std-11",
+              "folders": [],
+              "files": []
+            },
+            {
+              "id": "arts12",
+              "name": "Std-12",
+              "folders": [],
+              "files": []
+            }
           ],
           "files": []
+        }
+      ]
+    },
+    {
+      "id": "Bachelors_in_Physiotheraphy_handwritten_notes",
+      "name": "BPT",
+      "description": "Year wise handwritten notes",
+      "icon": "spa",
+      "folders": [
+        {
+          "id": "bpt_year_1",
+          "name": "Year 1",
+          "folders": [],
+          "files": [
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Anatomy - Introduction",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/1.Introduction to Anatomy.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "BONES",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/2.BONES.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Digestive system",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/4.Digestive system_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Respiratory system",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/5.Respiratory system_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Urinary system",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/6.Urinary system_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Shoulder complex",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/7.shoulder complex_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Elbow complex",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/8.elbow complex_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Wrist complex",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/9.wrist complex_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Hip complex",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/10.Hip complex_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Knee complex",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/10.knee complex_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Ankle complex",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/11.ankle complex_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "TMJ",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/12.TMJ_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "BASICS Biomechanics",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/13.BASICS Biomechanics_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Joint structure and function",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/15.joint structure and function_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Muscle Structure",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/16.Muscle Structure_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Posture",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/17.posture_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Vertebral column",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/18.vetebral column_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Gate",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/19.Gate_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Biochemistry",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/20.Biochemistry _compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Bones of upper limb",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/Bones of upper limb.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Female reproductive system",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/Female reproductive system_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Histology of blood vessels",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/Histology of blood vessels.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Joint Structure & Function",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/Joint Structure & Function.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Levers",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/Levers.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Male reproductive system",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/Male reproductive system_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Muscle and nervous tissue ",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/Muscle and nervous tissue.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Neuro anatomy_compressed",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/1st Year/Neuro anatomy_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            },
+            {
+              "id": "bpt_y1_ch1",
+              "name": "Tissues and bones_compressed",
+              "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/BPT/Tissues and bones_compressed.pdf",
+              "isNew": true,
+              "newTagVersion": 1,
+              "provider": {
+                "name": "Kulum Ansari",
+                "owner": "",
+                "description": "BPT 1st Year"
+              }
+            }
+          ]
         }
       ]
     }
