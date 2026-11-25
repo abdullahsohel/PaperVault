@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "revision": "student-library-launch-2",
+  "revision": "student-library-launch-3",
   "subjects": [
     {
       "id": "fb01060e1ab82176959e",
@@ -30,7 +30,7 @@
       "id": "10758836d81b2cc7b668",
       "title": "English",
       "standard": 10,
-      "launchState": "coming_soon"
+      "launchState": "live"
     },
     {
       "id": "0a0a49e4a804df82626b",
@@ -1422,6 +1422,26 @@
         ]
       },
       "year": 2020
+    },
+    {
+      "id": "e53a3adff74ecb5a13d7",
+      "standard": 10,
+      "section": "past_papers",
+      "subjectId": "10758836d81b2cc7b668",
+      "title": "English - Mar 25",
+      "format": "pdf",
+      "availability": "published",
+      "asset": {
+        "id": "english_mar_2025",
+        "url": "https://raw.githubusercontent.com/abdullahsohel/PaperVault/main/v2/papers/english/march-2025-paperplus.pdf",
+        "size": "1254 KB",
+        "title": "English - Mar 25",
+        "bundledAsset": "assets/library/papers/english-march-2025-paperplus.pdf"
+      },
+      "attachments": {},
+      "provider": null,
+      "parentReleaseDates": [],
+      "year": 2025
     },
     {
       "id": "36c318cfa24931f51ada",
@@ -13462,5 +13482,5 @@
       }
     }
   ],
-  "contentRevision": 2
+  "contentRevision": 3
 }
